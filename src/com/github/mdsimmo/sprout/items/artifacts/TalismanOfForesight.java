@@ -1,18 +1,18 @@
-package com.github.dachhack.sprout.items.artifacts;
+package com.github.mdsimmo.sprout.items.artifacts;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.buffs.Awareness;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.ui.BuffIndicator;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.buffs.Awareness;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.audio.Sample;
 
 /**

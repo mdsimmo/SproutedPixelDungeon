@@ -15,30 +15,16 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.plants;
+package com.github.mdsimmo.sprout.plants;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.Fire;
-import com.github.dachhack.sprout.actors.blobs.WaterOfTransmutation;
-import com.github.dachhack.sprout.actors.blobs.WaterOfUpgradeEating;
-import com.github.dachhack.sprout.actors.blobs.WellWater;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Slow;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.FlameParticle;
-import com.github.dachhack.sprout.items.potions.PotionOfLiquidFlame;
-import com.github.dachhack.sprout.items.potions.PotionOfMight;
-import com.github.dachhack.sprout.items.potions.PotionOfOverHealing;
-import com.github.dachhack.sprout.items.potions.PotionOfStrength;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.plants.Plant.Seed;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.WaterOfUpgradeEating;
+import com.github.mdsimmo.sprout.actors.blobs.WellWater;
+import com.github.mdsimmo.sprout.items.potions.PotionOfOverHealing;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 public class Flytrap extends Plant {
 

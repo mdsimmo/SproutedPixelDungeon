@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.painters;
+package com.github.mdsimmo.sprout.levels.painters;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.mobs.npcs.RatKing;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.Gold;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.weapon.missiles.MissileWeapon;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.RatKing;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.Gold;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.weapon.missiles.MissileWeapon;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Room;
+import com.github.mdsimmo.sprout.levels.Terrain;
 import com.watabou.utils.Random;
 
 public class RatKingPainter extends Painter {

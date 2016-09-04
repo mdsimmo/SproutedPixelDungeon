@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.rings;
+package com.github.mdsimmo.sprout.items.rings;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Burning;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.actors.mobs.Eye;
-import com.github.dachhack.sprout.actors.mobs.Warlock;
-import com.github.dachhack.sprout.actors.mobs.Yog;
-import com.github.dachhack.sprout.levels.traps.LightningTrap;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Burning;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.actors.mobs.Eye;
+import com.github.mdsimmo.sprout.actors.mobs.Warlock;
+import com.github.mdsimmo.sprout.actors.mobs.Yog;
+import com.github.mdsimmo.sprout.levels.traps.LightningTrap;
 import com.watabou.utils.Random;
 
 public class RingOfElements extends Ring {

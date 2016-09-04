@@ -15,9 +15,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
-import com.github.dachhack.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Level;
 import com.watabou.noosa.Image;
 import com.watabou.noosa.TextureFilm;
 import com.watabou.noosa.Tilemap;

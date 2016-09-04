@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
 import android.content.Intent;
 import android.net.Uri;
 
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.effects.Flare;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.ExitButton;
-import com.github.dachhack.sprout.ui.Icons;
-import com.github.dachhack.sprout.ui.Window;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.effects.Flare;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.ExitButton;
+import com.github.mdsimmo.sprout.ui.Icons;
+import com.github.mdsimmo.sprout.ui.Window;
 import com.watabou.input.Touchscreen.Touch;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.Camera;

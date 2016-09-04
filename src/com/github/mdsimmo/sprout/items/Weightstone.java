@@ -15,22 +15,22 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items;
+package com.github.mdsimmo.sprout.items;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.weapon.Weapon;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.ui.RedButton;
-import com.github.dachhack.sprout.ui.Window;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
-import com.github.dachhack.sprout.windows.IconTitle;
-import com.github.dachhack.sprout.windows.WndBag;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.items.weapon.Weapon;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.ui.Window;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.windows.IconTitle;
+import com.github.mdsimmo.sprout.windows.WndBag;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.audio.Sample;
 

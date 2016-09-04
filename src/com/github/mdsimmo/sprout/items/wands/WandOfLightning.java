@@ -15,24 +15,24 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.wands;
+package com.github.mdsimmo.sprout.items.wands;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Strength;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Lightning;
-import com.github.dachhack.sprout.effects.particles.SparkParticle;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.traps.LightningTrap;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Strength;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Lightning;
+import com.github.mdsimmo.sprout.effects.particles.SparkParticle;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.traps.LightningTrap;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.Camera;
 import com.watabou.utils.Callback;
 import com.watabou.utils.Random;

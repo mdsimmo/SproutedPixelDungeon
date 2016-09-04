@@ -15,24 +15,24 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.weapon.missiles;
+package com.github.mdsimmo.sprout.items.weapon.missiles;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.mobs.Assassin;
-import com.github.dachhack.sprout.actors.mobs.Bat;
-import com.github.dachhack.sprout.actors.mobs.Brute;
-import com.github.dachhack.sprout.actors.mobs.Gnoll;
-import com.github.dachhack.sprout.actors.mobs.GoldThief;
-import com.github.dachhack.sprout.actors.mobs.PoisonGoo;
-import com.github.dachhack.sprout.actors.mobs.Rat;
-import com.github.dachhack.sprout.actors.mobs.RatBoss;
-import com.github.dachhack.sprout.actors.mobs.Shaman;
-import com.github.dachhack.sprout.actors.mobs.SpectralRat;
-import com.github.dachhack.sprout.actors.mobs.Thief;
-import com.github.dachhack.sprout.actors.mobs.npcs.Ghost.GnollArcher;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.sprites.ItemSprite.Glowing;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.mobs.Assassin;
+import com.github.mdsimmo.sprout.actors.mobs.Bat;
+import com.github.mdsimmo.sprout.actors.mobs.Brute;
+import com.github.mdsimmo.sprout.actors.mobs.Gnoll;
+import com.github.mdsimmo.sprout.actors.mobs.GoldThief;
+import com.github.mdsimmo.sprout.actors.mobs.PoisonGoo;
+import com.github.mdsimmo.sprout.actors.mobs.Rat;
+import com.github.mdsimmo.sprout.actors.mobs.RatBoss;
+import com.github.mdsimmo.sprout.actors.mobs.Shaman;
+import com.github.mdsimmo.sprout.actors.mobs.SpectralRat;
+import com.github.mdsimmo.sprout.actors.mobs.Thief;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Ghost.GnollArcher;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.sprites.ItemSprite.Glowing;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 import com.watabou.utils.Random;
 
 public class ForestDart extends MissileWeapon {

@@ -15,23 +15,23 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Cripple;
-import com.github.dachhack.sprout.actors.buffs.Light;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.food.MysteryMeat;
-import com.github.dachhack.sprout.items.potions.PotionOfHealing;
-import com.github.dachhack.sprout.items.weapon.enchantments.Leech;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.mechanics.Ballistica;
-import com.github.dachhack.sprout.sprites.ScorpioSprite;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Cripple;
+import com.github.mdsimmo.sprout.actors.buffs.Light;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.food.MysteryMeat;
+import com.github.mdsimmo.sprout.items.potions.PotionOfHealing;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Leech;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.mechanics.Ballistica;
+import com.github.mdsimmo.sprout.sprites.ScorpioSprite;
 import com.watabou.utils.Random;
 
 public class Scorpio extends Mob {

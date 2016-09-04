@@ -1,11 +1,11 @@
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.weapon.missiles.MissileWeapon;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.weapon.missiles.MissileWeapon;
 import com.watabou.utils.Bundle;
 
 /**

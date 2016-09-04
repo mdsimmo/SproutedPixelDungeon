@@ -15,19 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
 import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.effects.BannerSprites;
-import com.github.dachhack.sprout.effects.Fireball;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.ExitButton;
-import com.github.dachhack.sprout.ui.PrefsButton;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.effects.BannerSprites;
+import com.github.mdsimmo.sprout.effects.Fireball;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.ExitButton;
+import com.github.mdsimmo.sprout.ui.PrefsButton;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.Game;

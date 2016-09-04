@@ -1,6 +1,6 @@
-package com.github.dachhack.sprout.items;
+package com.github.mdsimmo.sprout.items;
 
-import com.github.dachhack.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.Char;
 
 /**
  * Created by Evan on 24/08/2014.

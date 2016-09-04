@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.quest;
+package com.github.mdsimmo.sprout.items.quest;
 
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 public class CorpseDust extends Item {
 

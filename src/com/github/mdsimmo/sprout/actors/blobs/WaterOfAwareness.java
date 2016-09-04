@@ -15,25 +15,25 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.blobs;
+package com.github.mdsimmo.sprout.actors.blobs;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.Journal.Feature;
-import com.github.dachhack.sprout.actors.buffs.Awareness;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.BlobEmitter;
-import com.github.dachhack.sprout.effects.Identification;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.Journal;
+import com.github.mdsimmo.sprout.Journal.Feature;
+import com.github.mdsimmo.sprout.actors.buffs.Awareness;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.BlobEmitter;
+import com.github.mdsimmo.sprout.effects.Identification;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.audio.Sample;
 
 public class WaterOfAwareness extends WellWater {

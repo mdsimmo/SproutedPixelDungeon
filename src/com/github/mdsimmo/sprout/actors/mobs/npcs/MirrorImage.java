@@ -15,19 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.npcs;
+package com.github.mdsimmo.sprout.actors.mobs.npcs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Burning;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.sprites.MirrorSprite;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Burning;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.sprites.MirrorSprite;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
 

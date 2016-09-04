@@ -15,29 +15,29 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.List;
 
-import com.github.dachhack.sprout.Bones;
-import com.github.dachhack.sprout.Challenges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.mobs.Bestiary;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.rings.RingOfWealth;
-import com.github.dachhack.sprout.items.scrolls.Scroll;
-import com.github.dachhack.sprout.levels.Room.Type;
-import com.github.dachhack.sprout.levels.painters.Painter;
-import com.github.dachhack.sprout.levels.painters.ShopPainter;
+import com.github.mdsimmo.sprout.Bones;
+import com.github.mdsimmo.sprout.Challenges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Statistics;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.mobs.Bestiary;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.rings.RingOfWealth;
+import com.github.mdsimmo.sprout.items.scrolls.Scroll;
+import com.github.mdsimmo.sprout.levels.Room.Type;
+import com.github.mdsimmo.sprout.levels.painters.Painter;
+import com.github.mdsimmo.sprout.levels.painters.ShopPainter;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Graph;
 import com.watabou.utils.Random;

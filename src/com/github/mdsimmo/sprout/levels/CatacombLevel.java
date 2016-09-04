@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.items.SanChikarahDeath;
-import com.github.dachhack.sprout.levels.Room.Type;
-import com.github.dachhack.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.items.SanChikarahDeath;
+import com.github.mdsimmo.sprout.levels.Room.Type;
+import com.github.mdsimmo.sprout.scenes.GameScene;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Scene;
 import com.watabou.noosa.particles.Emitter;

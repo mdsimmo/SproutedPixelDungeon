@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.scenes.GameScene;
 import com.watabou.noosa.TextureFilm;
 
 public class AlbinoPiranhaSprite extends MobSprite {

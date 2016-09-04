@@ -1,9 +1,9 @@
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.EarthParticle;
-import com.github.dachhack.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.particles.EarthParticle;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
 
 /**
  * Created by debenhame on 19/11/2014.

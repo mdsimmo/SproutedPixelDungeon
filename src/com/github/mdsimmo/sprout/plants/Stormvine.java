@@ -1,10 +1,10 @@
-package com.github.dachhack.sprout.plants;
+package com.github.mdsimmo.sprout.plants;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Vertigo;
-import com.github.dachhack.sprout.items.potions.PotionOfLevitation;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Vertigo;
+import com.github.mdsimmo.sprout.items.potions.PotionOfLevitation;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 /**
  * Created by Evan on 23/10/2014.

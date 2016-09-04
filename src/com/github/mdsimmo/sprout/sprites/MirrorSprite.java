@@ -15,11 +15,11 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.mobs.npcs.MirrorImage;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.MirrorImage;
 import com.watabou.noosa.TextureFilm;
 
 public class MirrorSprite extends MobSprite {

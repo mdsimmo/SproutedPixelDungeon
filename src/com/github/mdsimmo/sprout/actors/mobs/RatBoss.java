@@ -15,16 +15,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.food.Meat;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfRegrowth;
-import com.github.dachhack.sprout.sprites.RatBossSprite;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfRegrowth;
+import com.github.mdsimmo.sprout.sprites.RatBossSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Random;
 
 public class RatBoss extends Rat {

@@ -15,28 +15,28 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
 import java.util.HashMap;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.GamesInProgress;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.actors.hero.HeroClass;
-import com.github.dachhack.sprout.effects.BannerSprites;
-import com.github.dachhack.sprout.effects.BannerSprites.Type;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.ExitButton;
-import com.github.dachhack.sprout.ui.Icons;
-import com.github.dachhack.sprout.ui.RedButton;
-import com.github.dachhack.sprout.utils.Utils;
-import com.github.dachhack.sprout.windows.WndChallenges;
-import com.github.dachhack.sprout.windows.WndClass;
-import com.github.dachhack.sprout.windows.WndMessage;
-import com.github.dachhack.sprout.windows.WndOptions;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.GamesInProgress;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.actors.hero.HeroClass;
+import com.github.mdsimmo.sprout.effects.BannerSprites;
+import com.github.mdsimmo.sprout.effects.BannerSprites.Type;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.ExitButton;
+import com.github.mdsimmo.sprout.ui.Icons;
+import com.github.mdsimmo.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.windows.WndChallenges;
+import com.github.mdsimmo.sprout.windows.WndClass;
+import com.github.mdsimmo.sprout.windows.WndMessage;
+import com.github.mdsimmo.sprout.windows.WndOptions;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.Camera;

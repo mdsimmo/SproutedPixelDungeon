@@ -17,6 +17,777 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30275944-35db-461a-81f6-f15310f0d7a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/AboutScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/AboutScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Acidic.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Acidic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AcidicSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AcidicSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ActiveMrDestructo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ActiveMrDestructo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ActiveMrDestructo2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ActiveMrDestructo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/Actor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/Actor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantRing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantRing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantWand.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantWand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantWeapon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AdamantWeapon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Affection.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Affection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/AlarmTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/AlarmTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Albino.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Albino.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/AlbinoPiranha.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/AlbinoPiranha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AlbinoPiranhaSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AlbinoPiranhaSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AlbinoSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AlbinoSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/AlchemistsToolkit.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/AlchemistsToolkit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Alchemy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Alchemy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/AlchemyPot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/AlchemyPot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Amok.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Amok.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Amulet.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Amulet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/AmuletScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/AmuletScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AncientCoin.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/AncientCoin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Ankh.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Ankh.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/AnkhChain.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/AnkhChain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/AntiEntropy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/AntiEntropy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Archs.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Archs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/Armor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/Armor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ArmorKit.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ArmorKit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ArmoryPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ArmoryPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/Artifact.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/Artifact.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Assassin.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Assassin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AssassinSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/AssassinSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Assets.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Assets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/AttackIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/AttackIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Awareness.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Awareness.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/BArray.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/BArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BadgeBanner.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BadgeBanner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Badges.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Badges.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BadgesList.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BadgesList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/BadgesScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/BadgesScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/Bag.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/Bag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/mechanics/Ballistica.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/mechanics/Ballistica.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bandit.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bandit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BanditKing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BanditKing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BanditKingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BanditKingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BanditSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BanditSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Banner.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Banner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BannerSprites.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BannerSprites.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Barkskin.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Barkskin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/BattleAxe.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/BattleAxe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/BattleLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/BattleLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bee.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BeeSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BeeSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/Belongings.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/Belongings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/BerryRegeneration.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/BerryRegeneration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bestiary.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Bestiary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blackberry.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blackberry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Blacksmith.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Blacksmith.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Blacksmith2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Blacksmith2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/BlacksmithPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/BlacksmithPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlacksmithSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlacksmithSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blandfruit.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blandfruit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/BlandfruitBush.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/BlandfruitBush.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/BlastParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/BlastParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Bleeding.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Bleeding.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Blindness.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Blindness.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Blindweed.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Blindweed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Blob.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Blob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BlobEmitter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/BlobEmitter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/BloodParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/BloodParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/BlueDragon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/BlueDragon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlueDragonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlueDragonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/BlueMilk.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/BlueMilk.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BlueWraith.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BlueWraith.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlueWraithSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BlueWraithSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blueberry.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Blueberry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Bomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Bomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Bone.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Bone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Bones.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Bones.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfDead.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfDead.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfLife.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfLife.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfTranscendence.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/BookOfTranscendence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Boomerang.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Boomerang.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/BossExitPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/BossExitPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Bounce.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Bounce.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BrokenRobot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BrokenRobot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BrokenRobotSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BrokenRobotSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BrownBat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/BrownBat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BrownBatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BrownBatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Brute.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Brute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BruteSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BruteSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Buff.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Buff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BuffIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BuffIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Burning.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Burning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BurningFistSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/BurningFistSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BusyIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BusyIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/BuzzSaw.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/BuzzSaw.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/CapeOfThorns.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/CapeOfThorns.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CatacombLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CatacombLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CavesBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CavesBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/CavesKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/CavesKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CavesLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CavesLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/CellEmitter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/CellEmitter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/CellSelector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/CellSelector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Chainsaw.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Chainsaw.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/ChaliceOfBlood.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/ChaliceOfBlood.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Challenges.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Challenges.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/Char.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/Char.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CharSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CharSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/ChargrilledMeat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/ChargrilledMeat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Charm.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Charm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Chasm.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Chasm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ChasmLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ChasmLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/CheckBox.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/CheckBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/CheckedCell.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/CheckedCell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Chrome.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Chrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CityBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CityBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/CityKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/CityKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CityLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CityLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ClassArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ClassArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/CloakOfShadows.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/CloakOfShadows.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ClothArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ClothArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Cloudberry.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Cloudberry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ClusterBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ClusterBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Combo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Combo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Compass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Compass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ConchShell.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ConchShell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ConfusionGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ConfusionGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/CorpseDust.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/CorpseDust.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/CountDown.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/CountDown.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Crab.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Crab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CrabBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/CrabBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/CrabKing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/CrabKing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CrabKingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CrabKingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CrabSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/CrabSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Cripple.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Cripple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/CryptPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/CryptPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/CurareDart.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/CurareDart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/CurareShuriken.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/CurareShuriken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DM300.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DM300.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DM300Sprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DM300Sprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Dagger.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Dagger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/DangerIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/DangerIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/DarkGold.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/DarkGold.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Dart.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Dart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/DeadEndLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/DeadEndLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Death.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Death.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/DeathCap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/DeathCap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/DeathRay.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/DeathRay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Degradation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Degradation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DemonGoo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DemonGoo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DemonGooSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DemonGooSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DewProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DewProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DewVial.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DewVial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DewVial2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DewVial2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Dewcatcher.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Dewcatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Dewcharge.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Dewcharge.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Dewdrop.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Dewdrop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DiscardedItemSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DiscardedItemSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Displacement.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Displacement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DizzyBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DizzyBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Door.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Door.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Dreamfoil.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Dreamfoil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/DriedRose.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/DriedRose.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Drowsy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Drowsy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DumplingBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DumplingBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Dungeon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Dungeon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/DungeonTilemap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/DungeonTilemap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DwarfHammer.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/DwarfHammer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DwarfKingTomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DwarfKingTomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DwarfKingTombSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DwarfKingTombSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DwarfLich.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/DwarfLich.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DwarfLichSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/DwarfLichSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/DwarfToken.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/DwarfToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/EarthImbue.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/EarthImbue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/EarthParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/EarthParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Earthroot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Earthroot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Earthstar.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Earthstar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Effects.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Effects.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Egg.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Egg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Elemental.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Elemental.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ElementalSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ElementalSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ElmoParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ElmoParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/EmoIcon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/EmoIcon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/EnergyParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/EnergyParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Entanglement.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Entanglement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/EntrancePainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/EntrancePainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/EquipableItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/EquipableItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ExitButton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ExitButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ExitPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ExitPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Eye.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Eye.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/EyeSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/EyeSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Fadeleaf.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Fadeleaf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Fairy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Fairy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FairySprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FairySprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FetidRatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FetidRatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FieldLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FieldLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Fire.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Fire.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Fire.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Fire.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FireImbue.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FireImbue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/FireTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/FireTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Fireball.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Fireball.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Firebloom.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Firebloom.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FishProtector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FishProtector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FishProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FishProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/FishingBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/FishingBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FishingLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FishingLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/FlameParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/FlameParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Flare.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Flare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FlavourBuff.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FlavourBuff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/FleecingTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/FleecingTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/FloatingText.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/FloatingText.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/FlowParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/FlowParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FlyingProtector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FlyingProtector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FlyingProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FlyingProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Flytrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Flytrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/FogOfWar.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/FogOfWar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Foliage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Foliage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Food.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Food.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/ForestDart.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/ForestDart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ForestProtector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ForestProtector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ForestProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ForestProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FortressLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/FortressLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FossilSkeleton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/FossilSkeleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FossilSkeletonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/FossilSkeletonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Freezing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Freezing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Frost.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Frost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/FrozenCarpaccio.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/FrozenCarpaccio.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FullMoonStrength.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/FullMoonStrength.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/FullMoonberry.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/FullMoonberry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Fury.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Fury.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/GLog.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/GLog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/GameLog.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/GameLog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/GameScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/GameScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/GamesInProgress.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/GamesInProgress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/GardenPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/GardenPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/GasesImmunity.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/GasesImmunity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Generator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Generator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Ghost.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Ghost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GhostSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GhostSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Glaive.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Glaive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Gnoll.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Gnoll.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollArcherSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollArcherSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollTricksterSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GnollTricksterSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Gold.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Gold.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/GoldIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/GoldIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GoldThief.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GoldThief.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GoldThiefSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GoldThiefSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/GoldenJelly.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/GoldenJelly.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/GoldenKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/GoldenKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/GoldenNut.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/GoldenNut.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Golem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Golem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GolemSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GolemSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Goo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Goo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GooSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GooSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/GooWarn.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/GooWarn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GraveProtector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GraveProtector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GraveProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GraveProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreatCrabSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreatCrabSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/GreaterStylus.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/GreaterStylus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/GreenDragon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/GreenDragon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreenDragonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreenDragonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GreyOni.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GreyOni.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreyOniSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreyOniSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GreyRat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/GreyRat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreyRatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/GreyRatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/GrippingTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/GrippingTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/HallsBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/HallsBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/HallsKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/HallsKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/HallsLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/HallsLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Halo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Halo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Haste.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Haste.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/HealthBar.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/HealthBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/HealthIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/HealthIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Heap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Heap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/HermitCrab.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/HermitCrab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/HermitCrabSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/HermitCrabSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/Hero.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/Hero.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroAction.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroClass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/HeroSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/HeroSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroSubClass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/hero/HeroSubClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/HighGrass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/HighGrass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/HolyHandGrenade.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/HolyHandGrenade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Honeypot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Honeypot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/HornOfPlenty.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/HornOfPlenty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Horror.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Horror.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Hunger.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Hunger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/HuntressArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/HuntressArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/IceBlock.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/IceBlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Icecap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Icecap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/IconTitle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/IconTitle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Icons.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Icons.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Identification.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Identification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Imp.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Imp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/ImpShopkeeper.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/ImpShopkeeper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ImpSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ImpSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/InactiveMrDestructo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/InactiveMrDestructo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/InactiveMrDestructo2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/InactiveMrDestructo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/IncendiaryDart.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/IncendiaryDart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/IncendiaryShuriken.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/IncendiaryShuriken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/InfectingFistSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/InfectingFistSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/InfestBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/InfestBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Instability.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Instability.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/InterlevelScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/InterlevelScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/IntroScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/IntroScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/InventoryScroll.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/InventoryScroll.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Invisibility.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Invisibility.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/IounStone.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/IounStone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/IronKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/IronKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Item.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Item.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ItemSlot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ItemSlot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ItemSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ItemSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ItemSpriteSheet.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ItemSpriteSheet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ItemStatusHandler.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ItemStatusHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/JackOLantern.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/JackOLantern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Javelin.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Javelin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Journal.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Journal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/journalpages/JournalPage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/journalpages/JournalPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/Key.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/Key.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/KeyRing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/KeyRing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/KindOfWeapon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/KindOfWeapon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/KindofMisc.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/KindofMisc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/King.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/King.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/KingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/KingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Knuckles.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Knuckles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/LaboratoryPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/LaboratoryPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/LarvaSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/LarvaSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/LastLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/LastLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/LastShopLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/LastShopLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/LeafParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/LeafParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/LeatherArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/LeatherArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Leech.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Leech.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Level.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Level.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Levitation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Levitation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/LibraryPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/LibraryPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Lichen.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Lichen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/LichenDrop.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/LichenDrop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Light.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Light.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Lightning.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Lightning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/LightningTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/LightningTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/LloydsBeacon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/LloydsBeacon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Longsword.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Longsword.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/LootIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/LootIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Luck.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Luck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Mace.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Mace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/MageArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/MageArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/MagicMissile.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/MagicMissile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/MagicWellPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/MagicWellPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/MagicalSleep.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/MagicalSleep.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/MailArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/MailArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/MasterThievesArmband.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/MasterThievesArmband.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Meat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Meat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/MeleeWeapon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/MeleeWeapon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Metabolism.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Metabolism.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Mimic.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Mimic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MimicSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MimicSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/MindVision.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/MindVision.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/MirrorImage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/MirrorImage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MirrorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MirrorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MissileSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MissileSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/MissileWeapon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/MissileWeapon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Mob.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Mob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MobSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MobSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Monk.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Monk.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MonkSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MonkSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MonsterBox.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MonsterBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MonsterBoxSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MonsterBoxSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Moonberry.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Moonberry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MossySkeleton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MossySkeleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MossySkeletonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MossySkeletonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MrDestructo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MrDestructo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MrDestructo2dot0.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/MrDestructo2dot0.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MrDestructo2dot0Sprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MrDestructo2dot0Sprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MrDestructoSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/MrDestructoSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Multiplicity.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Multiplicity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Mushroom.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Mushroom.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/MysteryMeat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/MysteryMeat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/NPC.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/NPC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Nomnom.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Nomnom.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Nut.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Nut.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Oni.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Oni.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/OniSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/OniSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Ooze.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Ooze.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/OrbOfZot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/OrbOfZot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/OrbOfZotMob.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/OrbOfZotMob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/OrbOfZotSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/OrbOfZotSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/OtilukesJournal.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/OtilukesJournal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/OverpricedRation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/OverpricedRation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/PET.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/PET.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/Painter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/Painter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Paralysis.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Paralysis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Paralysis.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Paralysis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ParalyticGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ParalyticGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/ParalyticTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/ParalyticTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PassagePainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PassagePainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Pasty.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/Pasty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Patch.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Patch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Phaseshift.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Phaseshift.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/Pickaxe.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/Pickaxe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/PinCushion.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/PinCushion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PinningFistSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PinningFistSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Piranha.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Piranha.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PiranhaSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PiranhaSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PitPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PitPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/PixelScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/PixelScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/PixieParasol.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/PixieParasol.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Plant.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Plant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PlantSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PlantSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/PlateArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/PlateArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Poison.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Poison.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Poison.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Poison.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/PoisonGoo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/PoisonGoo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PoisonGooSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/PoisonGooSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/PoisonParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/PoisonParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/PoisonTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/PoisonTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PoolPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/PoolPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Potential.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Potential.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/Potion.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/Potion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/PotionBandolier.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/PotionBandolier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/PotionOfConstitution.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/PotionOfConstitution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfExperience.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfExperience.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfFrost.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfFrost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfHaste.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfHaste.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfHealing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfHealing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfInvisibility.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfInvisibility.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfLevitation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfLevitation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfLiquidFlame.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfLiquidFlame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMending.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMending.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMight.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMindVision.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfMindVision.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfOverHealing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfOverHealing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfParalyticGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfParalyticGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfPurity.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfPurity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfStrength.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfStrength.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfToxicGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/potions/PotionOfToxicGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Preferences.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Preferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/PrefsButton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/PrefsButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/PrisonBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/PrisonBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/PrisonKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/PrisonKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/PrisonLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/PrisonLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/PurpleParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/PurpleParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Pushing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Pushing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Quarterstaff.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Quarterstaff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/QuickSlot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/QuickSlot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/QuickSlotButton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/QuickSlotButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Rankings.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Rankings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/RankingsScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/RankingsScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Rat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Rat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/RatBoss.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/RatBoss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatBossSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatBossSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/RatKing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/RatKing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/RatKingDen.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/RatKingDen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/RatKingPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/RatKingPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/RatKingPainter2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/RatKingPainter2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatKingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatKingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/RatSkull.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/quest/RatSkull.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/RedButton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/RedButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/RedDewdrop.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/RedDewdrop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/RedDragon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/RedDragon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RedDragonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RedDragonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/RedWraith.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/RedWraith.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RedWraithSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RedWraithSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Regeneration.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Regeneration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Regrowth.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Regrowth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/RegularLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/RegularLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ResultDescriptions.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ResultDescriptions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ResumeIndicator.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ResumeIndicator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ReturnBeacon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/ReturnBeacon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Rice.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Rice.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/RiceBall.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/RiceBall.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/Ring.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/Ring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfAccuracy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfAccuracy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/RingOfDisintegration.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/RingOfDisintegration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfElements.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfElements.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfEvasion.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfEvasion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfForce.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfForce.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfFuror.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfFuror.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfHaste.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfHaste.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfMagic.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfMagic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfMight.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfMight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfSharpshooting.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfSharpshooting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfTenacity.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfTenacity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfWealth.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/rings/RingOfWealth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Ripple.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Ripple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/RogueArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/RogueArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Room.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Room.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Roots.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Roots.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RottingFistSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/RottingFistSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/RoyalSpork.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/RoyalSpork.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SafeLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SafeLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/journalpages/SafeSpotPage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/journalpages/SafeSpotPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarah.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarah.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahDeath.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahDeath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahLife.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahLife.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahTranscend.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SanChikarahTranscend.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/SandalsOfNature.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/SandalsOfNature.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ScaleArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/ScaleArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Scorpio.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Scorpio.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ScorpioSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ScorpioSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Scorpion.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Scorpion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ScorpionSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ScorpionSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/Scroll.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/Scroll.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/ScrollHolder.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/ScrollHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfIdentify.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfIdentify.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfLullaby.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfLullaby.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMagicMapping.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMagicMapping.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMagicalInfusion.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMagicalInfusion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMirrorImage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMirrorImage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMultiUpgrade.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfMultiUpgrade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfPsionicBlast.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfPsionicBlast.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRecharging.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRecharging.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRegrowth.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRegrowth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRemoveCurse.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfRemoveCurse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfTeleportation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfTeleportation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfTerror.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfTerror.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfUpgrade.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/scrolls/ScrollOfUpgrade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ScrollPane.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/ScrollPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/SeedPouch.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/SeedPouch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SeekingBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SeekingBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SeekingBombItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SeekingBombItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SeekingBombNPC.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SeekingBombNPC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeekingBombSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeekingBombSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SeekingClusterBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SeekingClusterBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SeekingClusterBombItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SeekingClusterBombItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SeekingClusterBombNPC.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SeekingClusterBombNPC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeekingClusterBombSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeekingClusterBombSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Senior.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Senior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeniorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SeniorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Sentinel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Sentinel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SentinelSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SentinelSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SewerBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SewerBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SewerLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SewerLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SewersKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SewersKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/ShadowBox.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/ShadowBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/mechanics/ShadowCaster.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/mechanics/ShadowCaster.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ShadowParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ShadowParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ShadowYog.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ShadowYog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShadowYogSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShadowYogSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Shadows.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Shadows.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ShaftParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/ShaftParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shaman.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shaman.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShamanSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShamanSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ShatteredPixelDungeon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ShatteredPixelDungeon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokoban.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokoban.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokobanCorner.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokobanCorner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokobanSwitch.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/SheepSokobanSwitch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SheepSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SheepSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shell.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShellSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShellSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Shield.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Shield.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shielded.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Shielded.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShieldedSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShieldedSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Shock.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Shock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ShopPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/ShopPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Shopkeeper.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Shopkeeper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShopkeeperSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ShopkeeperSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/ShortSword.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/ShortSword.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Shuriken.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Shuriken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Sign.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/features/Sign.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/SimpleButton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/SimpleButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Skeleton.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Skeleton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SkeletonBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/SkeletonBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonHand1.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonHand1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonHand1Sprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonHand1Sprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonHand2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonHand2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonHand2Sprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonHand2Sprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/SkeletonKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/keys/SkeletonKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonKing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SkeletonKing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonKingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonKingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SkeletonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Slashing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Slashing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Sleep.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Sleep.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Slow.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Slow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Slow.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/enchantments/Slow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SmartBomb.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SmartBomb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SmokeParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SmokeParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/SnipersMark.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/SnipersMark.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SnowParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SnowParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanCornerSheepSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanCornerSheepSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanSheepSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanSheepSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanSheepSwitchSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SokobanSheepSwitchSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Sorrowmoss.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Sorrowmoss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SparkParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/SparkParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Spear.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Spear.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Speck.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Speck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SpectralRat.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SpectralRat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpectralRatSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpectralRatSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Speed.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Speed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/SpellSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/SpellSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Spider.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Spider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpiderSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpiderSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Spinner.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Spinner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpinnerSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SpinnerSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Splash.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Splash.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Spork.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Spork.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StandardPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StandardPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Starflower.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Starflower.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/StartScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/StartScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Statistics.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Statistics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Statue.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Statue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StatuePainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StatuePainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/StatueSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/StatueSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/StatusPane.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/StatusPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SteelBee.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/SteelBee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SteelBeeSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SteelBeeSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SteelHoneypot.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/SteelHoneypot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Stench.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Stench.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/StenchGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/StenchGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StoragePainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/StoragePainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Stormvine.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Stormvine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Strength.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Strength.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Stylus.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Stylus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Succubus.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Succubus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SuccubusSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SuccubusSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/SugarplumFairy.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/SugarplumFairy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SugarplumFairySprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SugarplumFairySprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/SummoningTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/SummoningTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Sungrass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/plants/Sungrass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/SurfaceScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/SurfaceScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Surprise.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Surprise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Swarm.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Swarm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SwarmSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/SwarmSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Sword.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/Sword.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Tag.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Tag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/TalismanOfForesight.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/TalismanOfForesight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Tamahawk.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Tamahawk.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Tengu.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Tengu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/TenguDen.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/TenguDen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/TenguDenLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/TenguDenLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/TenguEscape.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/TenguEscape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/TenguHideoutLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/TenguHideoutLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/TenguKey.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/TenguKey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TenguSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TenguSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Terrain.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/Terrain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Terror.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Terror.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Thief.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Thief.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ThiefBossLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ThiefBossLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ThiefCatchLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/ThiefCatchLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ThiefKing.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/ThiefKing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ThiefKingSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ThiefKingSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ThiefSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/ThiefSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/TimekeepersHourglass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/TimekeepersHourglass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer1.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer3.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Tinkerer3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TinkererSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TinkererSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/TitleScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/TitleScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Toast.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Toast.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/ToastedNut.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/food/ToastedNut.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/TomeOfMastery.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/TomeOfMastery.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Toolbar.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Toolbar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Torch.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Torch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/TorchHalo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/TorchHalo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Tower.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Tower.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TowerSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/TowerSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ToxicGas.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/ToxicGas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/ToxicImbue.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/ToxicImbue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/ToxicTrap.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/traps/ToxicTrap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TrapsPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TrapsPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TreasuryPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TreasuryPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TunnelPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/TunnelPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/UndeadSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/UndeadSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/UnstableSpellbook.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/UnstableSpellbook.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobRed.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobRed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobViolet.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobViolet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobYellow.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/UpgradeBlobYellow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/Utils.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/utils/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/VaultLevel.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/VaultLevel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/VaultPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/VaultPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/VaultProtector.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/VaultProtector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VaultProtectorSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VaultProtectorSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Velocirooster.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/Velocirooster.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VelociroosterSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VelociroosterSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Vertigo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Vertigo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/VioletDewdrop.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/VioletDewdrop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/VioletDragon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/VioletDragon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VioletDragonSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/VioletDragonSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Viscosity.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/glyphs/Viscosity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/Wand.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/Wand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/WandHolster.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/bags/WandHolster.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfAmok.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfAmok.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfAvalanche.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfAvalanche.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfBlink.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfBlink.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfDisintegration.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfDisintegration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfDisintegration2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfDisintegration2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfFirebolt.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfFirebolt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfFlock.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfFlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfLightning.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfLightning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfMagicMissile.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfMagicMissile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfPoison.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfPoison.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfRegrowth.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfRegrowth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfSlowness.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfSlowness.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfTelekinesis.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfTelekinesis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfTeleportation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/wands/WandOfTeleportation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Wandmaker.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/npcs/Wandmaker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WandmakerSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WandmakerSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/WarHammer.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/melee/WarHammer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Warlock.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Warlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WarlockSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WarlockSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/WarriorArmor.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/armor/WarriorArmor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Water.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Water.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfAwareness.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfAwareness.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfHealth.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfHealth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfTransmutation.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfTransmutation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfUpgradeEating.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WaterOfUpgradeEating.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Wave.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/missiles/Wave.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/WeakFloorPainter.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/levels/painters/WeakFloorPainter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Weakness.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/buffs/Weakness.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/Weapon.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/weapon/Weapon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Web.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/Web.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WebParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WebParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Weightstone.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/Weightstone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/WelcomeScene.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/WelcomeScene.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WellWater.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/blobs/WellWater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WindParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WindParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Window.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/Window.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBadge.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBadge.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBag.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBlacksmith.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBlacksmith.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBlacksmith2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndBlacksmith2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndCatalogus.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndCatalogus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndChallenges.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndChallenges.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndChooseWay.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndChooseWay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndClass.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDescend.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDescend.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDewDrawInfo.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDewDrawInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDewVial.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndDewVial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndError.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndError.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndGame.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndHero.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndHero.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndImp.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndImp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoCell.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoCell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoMob.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoMob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoPlant.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndInfoPlant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndJournal.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndJournal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndList.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndMessage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndOptions.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndOptions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndOtiluke.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndOtiluke.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndQuest.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndQuest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndRanking.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndRanking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndResurrect.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndResurrect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndSadGhost.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndSadGhost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndSettings.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndSettings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndStory.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndStory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTabbed.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTabbed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer2.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer3.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTinkerer3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTitledMessage.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTitledMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTradeItem.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndTradeItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndWandmaker.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/windows/WndWandmaker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WoolParticle.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/particles/WoolParticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Wound.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Wound.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Wraith.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Wraith.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WraithSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/WraithSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/YellowDewdrop.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/YellowDewdrop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Yog.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Yog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/YogSprite.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/sprites/YogSprite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/bee.java" afterPath="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/pets/bee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SproutedPixelDungeon.iws" />
@@ -42,11 +813,22 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.7111111">
+              <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
               <folding>
+                <element signature="e#684#702#0" expanded="true" />
                 <element signature="e#830#848#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelcomeScene.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/WelcomeScene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="212" column="33" selection-start-line="212" selection-start-column="33" selection-end-line="212" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +855,7 @@
         <option value="$PROJECT_DIR$/src/com/watabou/noosa/Group.java" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/WelcomeScene.java" />
       </list>
     </option>
   </component>
@@ -145,6 +928,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SproutedPixelDungeon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SproutedPixelDungeon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -155,6 +960,14 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="072443a8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.github.mdsimmo" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.SproutedPixelDungeon">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -353,9 +1166,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -393,7 +1206,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/effects/Flare.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Flare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
@@ -401,7 +1214,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/effects/Speck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Speck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="386" column="21" selection-start-line="386" selection-start-column="21" selection-end-line="386" selection-end-column="21" />
@@ -409,7 +1222,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/actors/mobs/Goo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/actors/mobs/Goo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2184466">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
@@ -417,7 +1230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/effects/Halo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/Halo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
@@ -427,7 +1240,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/effects/CheckedCell.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/effects/CheckedCell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
@@ -435,7 +1248,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/FogOfWar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/FogOfWar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
@@ -445,7 +1258,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/ui/BuffIndicator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/ui/BuffIndicator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
@@ -461,7 +1274,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/items/artifacts/TimekeepersHourglass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/items/artifacts/TimekeepersHourglass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29135802">
           <caret line="289" column="25" selection-start-line="289" selection-start-column="25" selection-end-line="289" selection-end-column="25" />
@@ -469,7 +1282,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/Dungeon.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/Dungeon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47901234">
           <caret line="841" column="40" selection-start-line="841" selection-start-column="40" selection-end-line="841" selection-end-column="40" />
@@ -477,7 +1290,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/scenes/GameScene.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/GameScene.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6296296">
           <caret line="372" column="21" selection-start-line="372" selection-start-column="21" selection-end-line="372" selection-end-column="21" />
@@ -485,18 +1298,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/scenes/TitleScene.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/TitleScene.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37037036">
           <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/dachhack/sprout/scenes/WelcomeScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.97037035">
-          <caret line="310" column="14" selection-start-line="310" selection-start-column="14" selection-end-line="310" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -509,15 +1314,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/mdsimmo/sprout/scenes/WelcomeScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="212" column="33" selection-start-line="212" selection-start-column="33" selection-end-line="212" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.7111111">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
           <folding>
+            <element signature="e#684#702#0" expanded="true" />
             <element signature="e#830#848#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|SproutedPixelDungeon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 24 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

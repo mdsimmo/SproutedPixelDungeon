@@ -15,13 +15,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
-import com.github.dachhack.sprout.actors.blobs.ConfusionGas;
-import com.github.dachhack.sprout.actors.blobs.ParalyticGas;
-import com.github.dachhack.sprout.actors.blobs.StenchGas;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.actors.blobs.ConfusionGas;
+import com.github.mdsimmo.sprout.actors.blobs.ParalyticGas;
+import com.github.mdsimmo.sprout.actors.blobs.StenchGas;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
 
 public class GasesImmunity extends FlavourBuff {
 

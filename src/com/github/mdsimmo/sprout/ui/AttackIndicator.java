@@ -15,16 +15,16 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
 import com.watabou.noosa.Game;
 import com.watabou.utils.Random;
 

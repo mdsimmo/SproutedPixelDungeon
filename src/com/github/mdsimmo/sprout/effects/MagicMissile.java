@@ -15,15 +15,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.effects;
+package com.github.mdsimmo.sprout.effects;
 
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.effects.particles.FlameParticle;
-import com.github.dachhack.sprout.effects.particles.LeafParticle;
-import com.github.dachhack.sprout.effects.particles.PoisonParticle;
-import com.github.dachhack.sprout.effects.particles.PurpleParticle;
-import com.github.dachhack.sprout.effects.particles.ShadowParticle;
-import com.github.dachhack.sprout.effects.particles.WoolParticle;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.effects.particles.FlameParticle;
+import com.github.mdsimmo.sprout.effects.particles.LeafParticle;
+import com.github.mdsimmo.sprout.effects.particles.PoisonParticle;
+import com.github.mdsimmo.sprout.effects.particles.PurpleParticle;
+import com.github.mdsimmo.sprout.effects.particles.ShadowParticle;
+import com.github.mdsimmo.sprout.effects.particles.WoolParticle;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Group;
 import com.watabou.noosa.particles.Emitter;

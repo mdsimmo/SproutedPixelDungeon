@@ -1,6 +1,6 @@
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Assets;
+import com.github.mdsimmo.sprout.Assets;
 import com.watabou.noosa.MovieClip;
 import com.watabou.noosa.TextureFilm;
 

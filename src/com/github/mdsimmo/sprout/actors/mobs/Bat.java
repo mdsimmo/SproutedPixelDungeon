@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.food.Meat;
-import com.github.dachhack.sprout.items.potions.PotionOfMending;
-import com.github.dachhack.sprout.items.weapon.enchantments.Leech;
-import com.github.dachhack.sprout.sprites.BatSprite;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.food.Meat;
+import com.github.mdsimmo.sprout.items.potions.PotionOfMending;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Leech;
+import com.github.mdsimmo.sprout.sprites.BatSprite;
 import com.watabou.utils.Random;
 
 public class Bat extends Mob {

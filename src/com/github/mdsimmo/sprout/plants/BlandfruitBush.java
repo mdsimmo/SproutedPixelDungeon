@@ -1,9 +1,9 @@
-package com.github.dachhack.sprout.plants;
+package com.github.mdsimmo.sprout.plants;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.items.food.Blandfruit;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.items.food.Blandfruit;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 /**
  * Created by Evan on 13/08/2014.

@@ -15,21 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.Web;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.actors.buffs.Terror;
-import com.github.dachhack.sprout.items.food.MysteryMeat;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.SpinnerSprite;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.Web;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.actors.buffs.Terror;
+import com.github.mdsimmo.sprout.items.food.MysteryMeat;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.SpinnerSprite;
 import com.watabou.utils.Random;
 
 public class Spinner extends Mob {

@@ -15,19 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.windows;
+package com.github.mdsimmo.sprout.windows;
 
 import java.io.IOException;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.scenes.InterlevelScene;
-import com.github.dachhack.sprout.scenes.RankingsScene;
-import com.github.dachhack.sprout.scenes.TitleScene;
-import com.github.dachhack.sprout.ui.Icons;
-import com.github.dachhack.sprout.ui.RedButton;
-import com.github.dachhack.sprout.ui.Window;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.scenes.InterlevelScene;
+import com.github.mdsimmo.sprout.scenes.RankingsScene;
+import com.github.mdsimmo.sprout.scenes.TitleScene;
+import com.github.mdsimmo.sprout.ui.Icons;
+import com.github.mdsimmo.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.ui.Window;
 import com.watabou.noosa.Game;
 
 public class WndGame extends Window {

@@ -15,20 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
 import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.actors.hero.HeroClass;
-import com.github.dachhack.sprout.actors.mobs.Sentinel;
-import com.github.dachhack.sprout.items.Bomb;
-import com.github.dachhack.sprout.items.DwarfHammer;
-import com.github.dachhack.sprout.items.Torch;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.actors.hero.HeroClass;
+import com.github.mdsimmo.sprout.actors.mobs.Sentinel;
+import com.github.mdsimmo.sprout.items.Bomb;
+import com.github.mdsimmo.sprout.items.DwarfHammer;
+import com.github.mdsimmo.sprout.items.Torch;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Group;
 import com.watabou.noosa.Scene;

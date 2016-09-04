@@ -15,27 +15,23 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.bags;
+package com.github.mdsimmo.sprout.items.bags;
 
-import com.github.dachhack.sprout.actors.mobs.SeekingBomb;
-import com.github.dachhack.sprout.actors.mobs.SeekingClusterBomb;
-import com.github.dachhack.sprout.items.ActiveMrDestructo;
-import com.github.dachhack.sprout.items.ActiveMrDestructo2;
-import com.github.dachhack.sprout.items.Ankh;
-import com.github.dachhack.sprout.items.Bomb;
-import com.github.dachhack.sprout.items.ClusterBomb;
-import com.github.dachhack.sprout.items.DizzyBomb;
-import com.github.dachhack.sprout.items.HolyHandGrenade;
-import com.github.dachhack.sprout.items.InactiveMrDestructo;
-import com.github.dachhack.sprout.items.InactiveMrDestructo2;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.OrbOfZot;
-import com.github.dachhack.sprout.items.SeekingBombItem;
-import com.github.dachhack.sprout.items.SeekingClusterBombItem;
-import com.github.dachhack.sprout.items.SmartBomb;
-import com.github.dachhack.sprout.items.rings.Ring;
-import com.github.dachhack.sprout.items.scrolls.Scroll;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.items.ActiveMrDestructo;
+import com.github.mdsimmo.sprout.items.ActiveMrDestructo2;
+import com.github.mdsimmo.sprout.items.Bomb;
+import com.github.mdsimmo.sprout.items.ClusterBomb;
+import com.github.mdsimmo.sprout.items.DizzyBomb;
+import com.github.mdsimmo.sprout.items.HolyHandGrenade;
+import com.github.mdsimmo.sprout.items.InactiveMrDestructo;
+import com.github.mdsimmo.sprout.items.InactiveMrDestructo2;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.OrbOfZot;
+import com.github.mdsimmo.sprout.items.SeekingBombItem;
+import com.github.mdsimmo.sprout.items.SeekingClusterBombItem;
+import com.github.mdsimmo.sprout.items.SmartBomb;
+import com.github.mdsimmo.sprout.items.scrolls.Scroll;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 public class ScrollHolder extends Bag {
 

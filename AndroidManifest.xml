@@ -27,7 +27,7 @@
 		android:allowBackup="false">
 		<activity
 			android:label="@string/app_name"
-			android:name="com.github.dachhack.sprout.ShatteredPixelDungeon"
+			android:name=".ShatteredPixelDungeon"
 			android:screenOrientation="portrait">
 			<intent-filter >
 				<action android:name="android.intent.action.MAIN" />

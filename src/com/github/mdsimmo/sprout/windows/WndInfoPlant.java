@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.windows;
+package com.github.mdsimmo.sprout.windows;
 
-import com.github.dachhack.sprout.plants.Plant;
-import com.github.dachhack.sprout.sprites.PlantSprite;
+import com.github.mdsimmo.sprout.plants.Plant;
+import com.github.mdsimmo.sprout.sprites.PlantSprite;
 
 public class WndInfoPlant extends WndTitledMessage {
 

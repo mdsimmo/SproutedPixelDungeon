@@ -15,20 +15,11 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.pets;
+package com.github.mdsimmo.sprout.actors.mobs.pets;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.mobs.Bee;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.sprites.MirrorSprite;
-import com.github.dachhack.sprout.sprites.SteelBeeSprite;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.sprites.SteelBeeSprite;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
 

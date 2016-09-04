@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
 import java.util.regex.Pattern;
 
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.ui.Component;
 import com.watabou.utils.Signal;

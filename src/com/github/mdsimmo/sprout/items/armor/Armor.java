@@ -15,31 +15,31 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.armor;
+package com.github.mdsimmo.sprout.items.armor;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.EquipableItem;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.armor.glyphs.Affection;
-import com.github.dachhack.sprout.items.armor.glyphs.AntiEntropy;
-import com.github.dachhack.sprout.items.armor.glyphs.Bounce;
-import com.github.dachhack.sprout.items.armor.glyphs.Displacement;
-import com.github.dachhack.sprout.items.armor.glyphs.Entanglement;
-import com.github.dachhack.sprout.items.armor.glyphs.Metabolism;
-import com.github.dachhack.sprout.items.armor.glyphs.Multiplicity;
-import com.github.dachhack.sprout.items.armor.glyphs.Potential;
-import com.github.dachhack.sprout.items.armor.glyphs.Stench;
-import com.github.dachhack.sprout.items.armor.glyphs.Viscosity;
-import com.github.dachhack.sprout.sprites.HeroSprite;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.items.EquipableItem;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Affection;
+import com.github.mdsimmo.sprout.items.armor.glyphs.AntiEntropy;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Bounce;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Displacement;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Entanglement;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Metabolism;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Multiplicity;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Potential;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Stench;
+import com.github.mdsimmo.sprout.items.armor.glyphs.Viscosity;
+import com.github.mdsimmo.sprout.sprites.HeroSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;

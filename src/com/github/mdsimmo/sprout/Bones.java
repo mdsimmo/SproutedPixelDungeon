@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -25,12 +25,12 @@ import java.util.Iterator;
 
 import android.content.Context;
 
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.Gold;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.artifacts.Artifact;
-import com.github.dachhack.sprout.items.weapon.missiles.MissileWeapon;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.Gold;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.artifacts.Artifact;
+import com.github.mdsimmo.sprout.items.weapon.missiles.MissileWeapon;
 import com.watabou.noosa.Game;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;

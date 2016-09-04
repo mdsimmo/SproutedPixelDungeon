@@ -15,34 +15,34 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.npcs;
+package com.github.mdsimmo.sprout.actors.mobs.npcs;
 
 import java.util.Collection;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.EquipableItem;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.SanChikarah;
-import com.github.dachhack.sprout.items.SanChikarahDeath;
-import com.github.dachhack.sprout.items.SanChikarahLife;
-import com.github.dachhack.sprout.items.SanChikarahTranscend;
-import com.github.dachhack.sprout.items.quest.DarkGold;
-import com.github.dachhack.sprout.items.quest.Pickaxe;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfUpgrade;
-import com.github.dachhack.sprout.items.weapon.melee.Chainsaw;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.levels.Room.Type;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.BlacksmithSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.windows.WndBlacksmith;
-import com.github.dachhack.sprout.windows.WndQuest;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Journal;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.items.EquipableItem;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.SanChikarah;
+import com.github.mdsimmo.sprout.items.SanChikarahDeath;
+import com.github.mdsimmo.sprout.items.SanChikarahLife;
+import com.github.mdsimmo.sprout.items.SanChikarahTranscend;
+import com.github.mdsimmo.sprout.items.quest.DarkGold;
+import com.github.mdsimmo.sprout.items.quest.Pickaxe;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfUpgrade;
+import com.github.mdsimmo.sprout.items.weapon.melee.Chainsaw;
+import com.github.mdsimmo.sprout.levels.Room;
+import com.github.mdsimmo.sprout.levels.Room.Type;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.BlacksmithSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.windows.WndBlacksmith;
+import com.github.mdsimmo.sprout.windows.WndQuest;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;

@@ -15,27 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.hero.HeroClass;
-import com.github.dachhack.sprout.actors.mobs.npcs.Blacksmith;
-import com.github.dachhack.sprout.actors.mobs.npcs.Ghost;
-import com.github.dachhack.sprout.actors.mobs.npcs.Tinkerer1;
-import com.github.dachhack.sprout.actors.mobs.npcs.Tinkerer2;
-import com.github.dachhack.sprout.items.Bomb;
-import com.github.dachhack.sprout.items.DewVial;
-import com.github.dachhack.sprout.items.Mushroom;
-import com.github.dachhack.sprout.items.bags.SeedPouch;
-import com.github.dachhack.sprout.items.food.Blackberry;
-import com.github.dachhack.sprout.items.food.Blueberry;
-import com.github.dachhack.sprout.items.food.Cloudberry;
-import com.github.dachhack.sprout.items.food.Moonberry;
-import com.github.dachhack.sprout.levels.Room.Type;
-import com.github.dachhack.sprout.levels.painters.Painter;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.hero.HeroClass;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Blacksmith;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Tinkerer2;
+import com.github.mdsimmo.sprout.items.Bomb;
+import com.github.mdsimmo.sprout.items.Mushroom;
+import com.github.mdsimmo.sprout.levels.Room.Type;
+import com.github.mdsimmo.sprout.levels.painters.Painter;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Group;
 import com.watabou.noosa.Scene;

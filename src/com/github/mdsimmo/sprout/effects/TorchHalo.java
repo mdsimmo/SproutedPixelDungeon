@@ -15,13 +15,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.effects;
+package com.github.mdsimmo.sprout.effects;
 
 import javax.microedition.khronos.opengles.GL10;
 
 import android.opengl.GLES20;
 
-import com.github.dachhack.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
 import com.watabou.noosa.Game;
 
 public class TorchHalo extends Halo {

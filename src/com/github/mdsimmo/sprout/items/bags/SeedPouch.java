@@ -15,20 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.bags;
+package com.github.mdsimmo.sprout.items.bags;
 
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.Rice;
-import com.github.dachhack.sprout.items.food.Blackberry;
-import com.github.dachhack.sprout.items.food.Blueberry;
-import com.github.dachhack.sprout.items.food.Cloudberry;
-import com.github.dachhack.sprout.items.food.FullMoonberry;
-import com.github.dachhack.sprout.items.food.GoldenNut;
-import com.github.dachhack.sprout.items.food.Moonberry;
-import com.github.dachhack.sprout.items.food.Nut;
-import com.github.dachhack.sprout.items.food.ToastedNut;
-import com.github.dachhack.sprout.plants.Plant;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.Rice;
+import com.github.mdsimmo.sprout.items.food.Blackberry;
+import com.github.mdsimmo.sprout.items.food.Blueberry;
+import com.github.mdsimmo.sprout.items.food.Cloudberry;
+import com.github.mdsimmo.sprout.items.food.FullMoonberry;
+import com.github.mdsimmo.sprout.items.food.GoldenNut;
+import com.github.mdsimmo.sprout.items.food.Moonberry;
+import com.github.mdsimmo.sprout.items.food.Nut;
+import com.github.mdsimmo.sprout.items.food.ToastedNut;
+import com.github.mdsimmo.sprout.plants.Plant;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 public class SeedPouch extends Bag {
 

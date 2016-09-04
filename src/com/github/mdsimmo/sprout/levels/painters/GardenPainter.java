@@ -15,20 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.painters;
+package com.github.mdsimmo.sprout.levels.painters;
 
-import com.github.dachhack.sprout.Challenges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.blobs.Foliage;
-import com.github.dachhack.sprout.items.Ankh;
-import com.github.dachhack.sprout.items.Honeypot;
-import com.github.dachhack.sprout.items.SteelHoneypot;
-import com.github.dachhack.sprout.items.bags.AnkhChain;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.plants.BlandfruitBush;
-import com.github.dachhack.sprout.plants.Sungrass;
+import com.github.mdsimmo.sprout.Challenges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.blobs.Foliage;
+import com.github.mdsimmo.sprout.items.Ankh;
+import com.github.mdsimmo.sprout.items.Honeypot;
+import com.github.mdsimmo.sprout.items.SteelHoneypot;
+import com.github.mdsimmo.sprout.items.bags.AnkhChain;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Room;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.plants.BlandfruitBush;
+import com.github.mdsimmo.sprout.plants.Sungrass;
 import com.watabou.utils.Random;
 
 public class GardenPainter extends Painter {

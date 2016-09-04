@@ -15,30 +15,30 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.weapon.missiles;
+package com.github.mdsimmo.sprout.items.weapon.missiles;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Drowsy;
-import com.github.dachhack.sprout.actors.mobs.BlueWraith;
-import com.github.dachhack.sprout.actors.mobs.DwarfLich;
-import com.github.dachhack.sprout.actors.mobs.FlyingProtector;
-import com.github.dachhack.sprout.actors.mobs.Golem;
-import com.github.dachhack.sprout.actors.mobs.RedWraith;
-import com.github.dachhack.sprout.actors.mobs.Sentinel;
-import com.github.dachhack.sprout.actors.mobs.ShadowYog;
-import com.github.dachhack.sprout.actors.mobs.Skeleton;
-import com.github.dachhack.sprout.actors.mobs.SpectralRat;
-import com.github.dachhack.sprout.actors.mobs.Statue;
-import com.github.dachhack.sprout.actors.mobs.Wraith;
-import com.github.dachhack.sprout.actors.mobs.Yog;
-import com.github.dachhack.sprout.actors.mobs.npcs.NPC;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfTeleportation;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Drowsy;
+import com.github.mdsimmo.sprout.actors.mobs.BlueWraith;
+import com.github.mdsimmo.sprout.actors.mobs.DwarfLich;
+import com.github.mdsimmo.sprout.actors.mobs.FlyingProtector;
+import com.github.mdsimmo.sprout.actors.mobs.Golem;
+import com.github.mdsimmo.sprout.actors.mobs.RedWraith;
+import com.github.mdsimmo.sprout.actors.mobs.Sentinel;
+import com.github.mdsimmo.sprout.actors.mobs.ShadowYog;
+import com.github.mdsimmo.sprout.actors.mobs.Skeleton;
+import com.github.mdsimmo.sprout.actors.mobs.SpectralRat;
+import com.github.mdsimmo.sprout.actors.mobs.Statue;
+import com.github.mdsimmo.sprout.actors.mobs.Wraith;
+import com.github.mdsimmo.sprout.actors.mobs.Yog;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.NPC;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfTeleportation;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Random;
 
 public class RiceBall extends MissileWeapon {

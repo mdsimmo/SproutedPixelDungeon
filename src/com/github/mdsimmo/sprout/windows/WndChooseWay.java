@@ -15,15 +15,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.windows;
+package com.github.mdsimmo.sprout.windows;
 
-import com.github.dachhack.sprout.actors.hero.HeroSubClass;
-import com.github.dachhack.sprout.items.TomeOfMastery;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.ui.RedButton;
-import com.github.dachhack.sprout.ui.Window;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.actors.hero.HeroSubClass;
+import com.github.mdsimmo.sprout.items.TomeOfMastery;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.ui.Window;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.BitmapTextMultiline;
 
 public class WndChooseWay extends Window {

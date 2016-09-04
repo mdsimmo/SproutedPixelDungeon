@@ -15,33 +15,32 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Burning;
-import com.github.dachhack.sprout.actors.buffs.Light;
-import com.github.dachhack.sprout.actors.buffs.Ooze;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.effects.Pushing;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.potions.PotionOfMending;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfPsionicBlast;
-import com.github.dachhack.sprout.items.weapon.enchantments.Death;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.levels.features.Door;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.DemonGooSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.watabou.noosa.Camera;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Burning;
+import com.github.mdsimmo.sprout.actors.buffs.Light;
+import com.github.mdsimmo.sprout.actors.buffs.Ooze;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.effects.Pushing;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.potions.PotionOfMending;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfPsionicBlast;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Death;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.levels.features.Door;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.DemonGooSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
 

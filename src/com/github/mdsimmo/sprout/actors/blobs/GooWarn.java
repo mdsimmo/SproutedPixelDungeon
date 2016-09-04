@@ -1,7 +1,7 @@
-package com.github.dachhack.sprout.actors.blobs;
+package com.github.mdsimmo.sprout.actors.blobs;
 
-import com.github.dachhack.sprout.effects.BlobEmitter;
-import com.github.dachhack.sprout.sprites.GooSprite;
+import com.github.mdsimmo.sprout.effects.BlobEmitter;
+import com.github.mdsimmo.sprout.sprites.GooSprite;
 
 /**
  * Created by Evan on 29/09/2014.

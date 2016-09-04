@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.armor.glyphs;
+package com.github.mdsimmo.sprout.items.armor.glyphs;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Charm;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.armor.Armor;
-import com.github.dachhack.sprout.items.armor.Armor.Glyph;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.sprites.ItemSprite.Glowing;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Charm;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.armor.Armor;
+import com.github.mdsimmo.sprout.items.armor.Armor.Glyph;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSprite.Glowing;
 import com.watabou.utils.GameMath;
 import com.watabou.utils.Random;
 

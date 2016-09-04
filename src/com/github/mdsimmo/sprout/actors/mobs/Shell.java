@@ -15,47 +15,29 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Terror;
-import com.github.dachhack.sprout.actors.mobs.Yog.BurningFist;
-import com.github.dachhack.sprout.actors.mobs.Yog.InfectingFist;
-import com.github.dachhack.sprout.actors.mobs.Yog.PinningFist;
-import com.github.dachhack.sprout.actors.mobs.Yog.RottingFist;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.BlastParticle;
-import com.github.dachhack.sprout.effects.particles.SmokeParticle;
-import com.github.dachhack.sprout.effects.particles.SparkParticle;
-import com.github.dachhack.sprout.items.Gold;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.RedDewdrop;
-import com.github.dachhack.sprout.items.keys.SkeletonKey;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfPsionicBlast;
-import com.github.dachhack.sprout.items.weapon.enchantments.Death;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.levels.traps.LightningTrap;
-import com.github.dachhack.sprout.mechanics.Ballistica;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.sprites.ShamanSprite;
-import com.github.dachhack.sprout.sprites.ShellSprite;
-import com.github.dachhack.sprout.sprites.TowerSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Terror;
+import com.github.mdsimmo.sprout.effects.particles.SparkParticle;
+import com.github.mdsimmo.sprout.items.RedDewdrop;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfPsionicBlast;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Death;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.traps.LightningTrap;
+import com.github.mdsimmo.sprout.mechanics.Ballistica;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.sprites.ShellSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.Camera;
-import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Callback;
 import com.watabou.utils.Random;
 

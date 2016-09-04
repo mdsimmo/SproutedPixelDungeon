@@ -1,7 +1,7 @@
-package com.github.dachhack.sprout.items.artifacts;
+package com.github.mdsimmo.sprout.items.artifacts;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 import com.watabou.utils.Random;
 
 /**

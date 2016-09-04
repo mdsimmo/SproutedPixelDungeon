@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.BloodParticle;
-import com.github.dachhack.sprout.items.keys.IronKey;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.HeroSprite;
-import com.github.dachhack.sprout.windows.WndGame;
-import com.github.dachhack.sprout.windows.WndHero;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.particles.BloodParticle;
+import com.github.mdsimmo.sprout.items.keys.IronKey;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.HeroSprite;
+import com.github.mdsimmo.sprout.windows.WndGame;
+import com.github.mdsimmo.sprout.windows.WndHero;
 import com.watabou.input.Touchscreen.Touch;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.Camera;

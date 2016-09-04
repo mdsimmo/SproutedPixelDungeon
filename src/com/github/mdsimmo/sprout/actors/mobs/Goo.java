@@ -15,38 +15,36 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.GooWarn;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Ooze;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.ElmoParticle;
-import com.github.dachhack.sprout.items.ActiveMrDestructo;
-import com.github.dachhack.sprout.items.Ankh;
-import com.github.dachhack.sprout.items.Egg;
-import com.github.dachhack.sprout.items.Gold;
-import com.github.dachhack.sprout.items.LloydsBeacon;
-import com.github.dachhack.sprout.items.keys.SkeletonKey;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfPsionicBlast;
-import com.github.dachhack.sprout.items.weapon.enchantments.Death;
-import com.github.dachhack.sprout.items.weapon.melee.Chainsaw;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.SewerBossLevel;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.sprites.GooSprite;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.GooWarn;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Ooze;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.particles.ElmoParticle;
+import com.github.mdsimmo.sprout.items.ActiveMrDestructo;
+import com.github.mdsimmo.sprout.items.Egg;
+import com.github.mdsimmo.sprout.items.Gold;
+import com.github.mdsimmo.sprout.items.keys.SkeletonKey;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfPsionicBlast;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Death;
+import com.github.mdsimmo.sprout.items.weapon.melee.Chainsaw;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.SewerBossLevel;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.sprites.GooSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Bundle;

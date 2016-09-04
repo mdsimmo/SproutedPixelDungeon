@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -26,8 +26,8 @@ import java.util.Comparator;
 
 import android.content.Context;
 
-import com.github.dachhack.sprout.actors.hero.HeroClass;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.actors.hero.HeroClass;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.Game;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;

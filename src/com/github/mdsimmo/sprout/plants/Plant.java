@@ -15,34 +15,34 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.plants;
+package com.github.mdsimmo.sprout.plants;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Barkskin;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.hero.HeroSubClass;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.LeafParticle;
-import com.github.dachhack.sprout.items.Dewdrop;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.artifacts.SandalsOfNature;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.sprites.PlantSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Barkskin;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.hero.HeroSubClass;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.particles.LeafParticle;
+import com.github.mdsimmo.sprout.items.Dewdrop;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.artifacts.SandalsOfNature;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.sprites.PlantSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
-//import com.github.dachhack.sprout.effects.SpellSprite;
-//import com.github.dachhack.sprout.items.food.Food;
+//import com.github.mdsimmo.sprout.effects.SpellSprite;
+//import com.github.mdsimmo.sprout.items.food.Food;
 
 public class Plant implements Bundlable {
 

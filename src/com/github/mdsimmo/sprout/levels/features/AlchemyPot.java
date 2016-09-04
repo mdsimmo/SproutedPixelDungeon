@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.features;
+package com.github.mdsimmo.sprout.levels.features;
 
 import java.util.Iterator;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.food.Blandfruit;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.windows.WndBag;
-import com.github.dachhack.sprout.windows.WndOptions;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.food.Blandfruit;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.windows.WndBag;
+import com.github.mdsimmo.sprout.windows.WndOptions;
 
 public class AlchemyPot {
 

@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.windows;
+package com.github.mdsimmo.sprout.windows;
 
 import java.util.Collections;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.ui.Icons;
-import com.github.dachhack.sprout.ui.ScrollPane;
-import com.github.dachhack.sprout.ui.Window;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Journal;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.ui.Icons;
+import com.github.mdsimmo.sprout.ui.ScrollPane;
+import com.github.mdsimmo.sprout.ui.Window;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.Image;
 import com.watabou.noosa.ui.Component;

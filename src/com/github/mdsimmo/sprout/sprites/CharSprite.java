@@ -15,22 +15,22 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.effects.EmoIcon;
-import com.github.dachhack.sprout.effects.FloatingText;
-import com.github.dachhack.sprout.effects.IceBlock;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.Splash;
-import com.github.dachhack.sprout.effects.TorchHalo;
-import com.github.dachhack.sprout.effects.particles.FlameParticle;
-import com.github.dachhack.sprout.items.potions.PotionOfInvisibility;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.effects.EmoIcon;
+import com.github.mdsimmo.sprout.effects.FloatingText;
+import com.github.mdsimmo.sprout.effects.IceBlock;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.Splash;
+import com.github.mdsimmo.sprout.effects.TorchHalo;
+import com.github.mdsimmo.sprout.effects.particles.FlameParticle;
+import com.github.mdsimmo.sprout.items.potions.PotionOfInvisibility;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.MovieClip;
 import com.watabou.noosa.Visual;

@@ -15,25 +15,25 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.npcs;
+package com.github.mdsimmo.sprout.actors.mobs.npcs;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.mobs.Golem;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.actors.mobs.Monk;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.quest.DwarfToken;
-import com.github.dachhack.sprout.items.rings.Ring;
-import com.github.dachhack.sprout.levels.CityLevel;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ImpSprite;
-import com.github.dachhack.sprout.utils.Utils;
-import com.github.dachhack.sprout.windows.WndImp;
-import com.github.dachhack.sprout.windows.WndQuest;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Journal;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.mobs.Golem;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.actors.mobs.Monk;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.quest.DwarfToken;
+import com.github.mdsimmo.sprout.items.rings.Ring;
+import com.github.mdsimmo.sprout.levels.CityLevel;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ImpSprite;
+import com.github.mdsimmo.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.windows.WndImp;
+import com.github.mdsimmo.sprout.windows.WndQuest;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
 

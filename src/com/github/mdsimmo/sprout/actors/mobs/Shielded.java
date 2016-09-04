@@ -15,11 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.sprites.ShieldedSprite;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.sprites.ShieldedSprite;
 
 public class Shielded extends Brute {
 

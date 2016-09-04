@@ -1,11 +1,11 @@
-package com.github.dachhack.sprout.actors.blobs;
+package com.github.mdsimmo.sprout.actors.blobs;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Paralysis;
-import com.github.dachhack.sprout.effects.BlobEmitter;
-import com.github.dachhack.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Paralysis;
+import com.github.mdsimmo.sprout.effects.BlobEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
 
 /**
  * Created by debenhame on 08/10/2014.

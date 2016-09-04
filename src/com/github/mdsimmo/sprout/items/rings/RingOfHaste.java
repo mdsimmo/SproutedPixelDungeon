@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.rings;
+package com.github.mdsimmo.sprout.items.rings;
 
 public class RingOfHaste extends Ring {
 

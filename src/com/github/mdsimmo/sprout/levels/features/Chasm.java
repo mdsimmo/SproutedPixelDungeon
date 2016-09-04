@@ -15,27 +15,26 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.features;
+package com.github.mdsimmo.sprout.levels.features;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Cripple;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.actors.mobs.pets.PET;
-import com.github.dachhack.sprout.items.SanChikarahTranscend;
-import com.github.dachhack.sprout.items.artifacts.DriedRose;
-import com.github.dachhack.sprout.items.artifacts.TimekeepersHourglass;
-import com.github.dachhack.sprout.levels.RegularLevel;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.scenes.InterlevelScene;
-import com.github.dachhack.sprout.sprites.MobSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.windows.WndOptions;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Cripple;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.items.SanChikarahTranscend;
+import com.github.mdsimmo.sprout.items.artifacts.DriedRose;
+import com.github.mdsimmo.sprout.items.artifacts.TimekeepersHourglass;
+import com.github.mdsimmo.sprout.levels.RegularLevel;
+import com.github.mdsimmo.sprout.levels.Room;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.scenes.InterlevelScene;
+import com.github.mdsimmo.sprout.sprites.MobSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.windows.WndOptions;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.audio.Sample;

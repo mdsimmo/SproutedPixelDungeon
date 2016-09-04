@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.effects.Flare;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.effects.Flare;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.ui.RedButton;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.Game;

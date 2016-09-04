@@ -15,16 +15,16 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.food;
+package com.github.mdsimmo.sprout.items.food;
 
-import com.github.dachhack.sprout.actors.buffs.Bleeding;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Cripple;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.actors.buffs.Weakness;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.actors.buffs.Bleeding;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Cripple;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.actors.buffs.Weakness;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 import com.watabou.utils.Random;
 
 public class PotionOfConstitution extends Food {

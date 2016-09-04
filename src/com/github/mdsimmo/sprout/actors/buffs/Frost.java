@@ -15,19 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Thief;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.food.FrozenCarpaccio;
-import com.github.dachhack.sprout.items.food.MysteryMeat;
-import com.github.dachhack.sprout.items.potions.Potion;
-import com.github.dachhack.sprout.items.rings.RingOfElements.Resistance;
-import com.github.dachhack.sprout.ui.BuffIndicator;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.Thief;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.food.FrozenCarpaccio;
+import com.github.mdsimmo.sprout.items.food.MysteryMeat;
+import com.github.mdsimmo.sprout.items.potions.Potion;
+import com.github.mdsimmo.sprout.items.rings.RingOfElements.Resistance;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.utils.GLog;
 
 public class Frost extends FlavourBuff {
 

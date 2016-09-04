@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.windows.WndSettings;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.windows.WndSettings;
 import com.watabou.noosa.Image;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.noosa.ui.Button;

@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.mechanics;
+package com.github.mdsimmo.sprout.mechanics;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.levels.Level;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.levels.Level;
 
 public class Ballistica {
 

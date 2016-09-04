@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,24 +28,24 @@ import java.util.List;
 
 import android.content.Context;
 
-import com.github.dachhack.sprout.actors.mobs.Acidic;
-import com.github.dachhack.sprout.actors.mobs.Albino;
-import com.github.dachhack.sprout.actors.mobs.Bandit;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.actors.mobs.Senior;
-import com.github.dachhack.sprout.actors.mobs.Shielded;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.artifacts.Artifact;
-import com.github.dachhack.sprout.items.bags.PotionBandolier;
-import com.github.dachhack.sprout.items.bags.ScrollHolder;
-import com.github.dachhack.sprout.items.bags.SeedPouch;
-import com.github.dachhack.sprout.items.bags.WandHolster;
-import com.github.dachhack.sprout.items.potions.Potion;
-import com.github.dachhack.sprout.items.rings.Ring;
-import com.github.dachhack.sprout.items.scrolls.Scroll;
-import com.github.dachhack.sprout.items.wands.Wand;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.actors.mobs.Acidic;
+import com.github.mdsimmo.sprout.actors.mobs.Albino;
+import com.github.mdsimmo.sprout.actors.mobs.Bandit;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.actors.mobs.Senior;
+import com.github.mdsimmo.sprout.actors.mobs.Shielded;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.artifacts.Artifact;
+import com.github.mdsimmo.sprout.items.bags.PotionBandolier;
+import com.github.mdsimmo.sprout.items.bags.ScrollHolder;
+import com.github.mdsimmo.sprout.items.bags.SeedPouch;
+import com.github.mdsimmo.sprout.items.bags.WandHolster;
+import com.github.mdsimmo.sprout.items.potions.Potion;
+import com.github.mdsimmo.sprout.items.rings.Ring;
+import com.github.mdsimmo.sprout.items.scrolls.Scroll;
+import com.github.mdsimmo.sprout.items.wands.Wand;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.Game;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Callback;

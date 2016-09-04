@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.plants;
+package com.github.mdsimmo.sprout.plants;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.ShaftParticle;
-import com.github.dachhack.sprout.items.potions.PotionOfHealing;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.ui.BuffIndicator;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.particles.ShaftParticle;
+import com.github.mdsimmo.sprout.items.potions.PotionOfHealing;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.utils.Bundle;
 
 public class Sungrass extends Plant {

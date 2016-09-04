@@ -15,20 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors;
+package com.github.mdsimmo.sprout.actors;
 
 import java.util.Arrays;
 import java.util.HashSet;
 
 import android.util.SparseArray;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.levels.Level;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Statistics;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.levels.Level;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;
 

@@ -1,7 +1,7 @@
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
 import com.watabou.noosa.Image;
 
 /**

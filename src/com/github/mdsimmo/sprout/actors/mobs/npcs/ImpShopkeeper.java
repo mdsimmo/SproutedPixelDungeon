@@ -15,16 +15,16 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.npcs;
+package com.github.mdsimmo.sprout.actors.mobs.npcs;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.ElmoParticle;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.sprites.ImpSprite;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Statistics;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.particles.ElmoParticle;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.sprites.ImpSprite;
+import com.github.mdsimmo.sprout.utils.Utils;
 
 public class ImpShopkeeper extends Shopkeeper {
 

@@ -15,33 +15,33 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.features;
+package com.github.mdsimmo.sprout.levels.features;
 
-import com.github.dachhack.sprout.Challenges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Barkskin;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.hero.HeroSubClass;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.LeafParticle;
-import com.github.dachhack.sprout.items.Dewdrop;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.RedDewdrop;
-import com.github.dachhack.sprout.items.VioletDewdrop;
-import com.github.dachhack.sprout.items.YellowDewdrop;
-import com.github.dachhack.sprout.items.artifacts.SandalsOfNature;
-import com.github.dachhack.sprout.items.food.Blackberry;
-import com.github.dachhack.sprout.items.food.Blueberry;
-import com.github.dachhack.sprout.items.food.Cloudberry;
-import com.github.dachhack.sprout.items.food.Moonberry;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.plants.BlandfruitBush;
-import com.github.dachhack.sprout.plants.Flytrap;
-import com.github.dachhack.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.Challenges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Barkskin;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.hero.HeroSubClass;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.particles.LeafParticle;
+import com.github.mdsimmo.sprout.items.Dewdrop;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.RedDewdrop;
+import com.github.mdsimmo.sprout.items.VioletDewdrop;
+import com.github.mdsimmo.sprout.items.YellowDewdrop;
+import com.github.mdsimmo.sprout.items.artifacts.SandalsOfNature;
+import com.github.mdsimmo.sprout.items.food.Blackberry;
+import com.github.mdsimmo.sprout.items.food.Blueberry;
+import com.github.mdsimmo.sprout.items.food.Cloudberry;
+import com.github.mdsimmo.sprout.items.food.Moonberry;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.plants.BlandfruitBush;
+import com.github.mdsimmo.sprout.plants.Flytrap;
+import com.github.mdsimmo.sprout.scenes.GameScene;
 import com.watabou.utils.Random;
 
 public class HighGrass {

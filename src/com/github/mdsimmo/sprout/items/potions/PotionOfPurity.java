@@ -15,23 +15,23 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.potions;
+package com.github.mdsimmo.sprout.items.potions;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.ConfusionGas;
-import com.github.dachhack.sprout.actors.blobs.ParalyticGas;
-import com.github.dachhack.sprout.actors.blobs.StenchGas;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.GasesImmunity;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.utils.BArray;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.ConfusionGas;
+import com.github.mdsimmo.sprout.actors.blobs.ParalyticGas;
+import com.github.mdsimmo.sprout.actors.blobs.StenchGas;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.GasesImmunity;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.utils.BArray;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.PathFinder;
 

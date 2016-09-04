@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Statistics;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Statistics;
 
 public class Shield extends Buff {
 

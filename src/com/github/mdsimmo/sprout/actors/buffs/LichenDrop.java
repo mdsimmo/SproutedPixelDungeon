@@ -15,9 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.buffs;
-
-import com.github.dachhack.sprout.Dungeon;
+package com.github.mdsimmo.sprout.actors.buffs;
 
 public class LichenDrop extends FlavourBuff {
 

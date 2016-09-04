@@ -15,25 +15,24 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items;
+package com.github.mdsimmo.sprout.items;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.Bee;
-import com.github.dachhack.sprout.actors.mobs.SteelBee;
-import com.github.dachhack.sprout.actors.mobs.pets.bee;
-import com.github.dachhack.sprout.effects.Pushing;
-import com.github.dachhack.sprout.effects.Splash;
-import com.github.dachhack.sprout.items.potions.PotionOfStrength;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.SteelBee;
+import com.github.mdsimmo.sprout.actors.mobs.pets.bee;
+import com.github.mdsimmo.sprout.effects.Pushing;
+import com.github.mdsimmo.sprout.effects.Splash;
+import com.github.mdsimmo.sprout.items.potions.PotionOfStrength;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.noosa.tweeners.AlphaTweener;
 import com.watabou.utils.Bundle;

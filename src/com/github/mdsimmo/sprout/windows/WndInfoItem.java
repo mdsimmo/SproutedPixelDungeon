@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.windows;
+package com.github.mdsimmo.sprout.windows;
 
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Heap.Type;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.artifacts.Artifact;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.ui.ItemSlot;
-import com.github.dachhack.sprout.ui.Window;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Heap.Type;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.artifacts.Artifact;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.ui.ItemSlot;
+import com.github.mdsimmo.sprout.ui.Window;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.BitmapTextMultiline;
 
 public class WndInfoItem extends Window {

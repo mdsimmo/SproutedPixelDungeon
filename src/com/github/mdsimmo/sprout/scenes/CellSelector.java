@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
 import com.watabou.input.Touchscreen.Touch;
 import com.watabou.noosa.TouchArea;
 import com.watabou.utils.GameMath;

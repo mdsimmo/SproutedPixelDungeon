@@ -15,15 +15,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels.painters;
+package com.github.mdsimmo.sprout.levels.painters;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.mobs.npcs.Blacksmith;
-import com.github.dachhack.sprout.actors.mobs.npcs.Blacksmith2;
-import com.github.dachhack.sprout.items.Generator;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.levels.Terrain;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Blacksmith;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Blacksmith2;
+import com.github.mdsimmo.sprout.items.Generator;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.Room;
+import com.github.mdsimmo.sprout.levels.Terrain;
 import com.watabou.utils.Random;
 
 public class BlacksmithPainter extends Painter {

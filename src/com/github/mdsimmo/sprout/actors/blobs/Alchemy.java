@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.blobs;
+package com.github.mdsimmo.sprout.actors.blobs;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.effects.BlobEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Journal;
+import com.github.mdsimmo.sprout.effects.BlobEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
 import com.watabou.utils.Bundle;
 
 public class Alchemy extends Blob {

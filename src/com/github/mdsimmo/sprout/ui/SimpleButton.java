@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
 import com.watabou.input.Touchscreen.Touch;
 import com.watabou.noosa.Image;

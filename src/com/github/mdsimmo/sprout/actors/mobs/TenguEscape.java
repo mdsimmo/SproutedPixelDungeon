@@ -15,41 +15,28 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.Badges.Badge;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Invisibility;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.particles.ElmoParticle;
-import com.github.dachhack.sprout.effects.particles.ShadowParticle;
-import com.github.dachhack.sprout.items.ConchShell;
-import com.github.dachhack.sprout.items.Gold;
-import com.github.dachhack.sprout.items.TenguKey;
-import com.github.dachhack.sprout.items.TomeOfMastery;
-import com.github.dachhack.sprout.items.keys.SkeletonKey;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfMagicMapping;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfPsionicBlast;
-import com.github.dachhack.sprout.items.weapon.enchantments.Death;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.Terrain;
-import com.github.dachhack.sprout.mechanics.Ballistica;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.TenguSprite;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.particles.ElmoParticle;
+import com.github.mdsimmo.sprout.items.TenguKey;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfPsionicBlast;
+import com.github.mdsimmo.sprout.items.weapon.enchantments.Death;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.mechanics.Ballistica;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.TenguSprite;
 import com.watabou.noosa.audio.Sample;
-import com.watabou.noosa.tweeners.AlphaTweener;
 import com.watabou.utils.Random;
 
 public class TenguEscape extends Mob {

@@ -15,21 +15,21 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.hero;
+package com.github.mdsimmo.sprout.actors.hero;
 
 import java.util.Iterator;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.KindOfWeapon;
-import com.github.dachhack.sprout.items.KindofMisc;
-import com.github.dachhack.sprout.items.armor.Armor;
-import com.github.dachhack.sprout.items.bags.Bag;
-import com.github.dachhack.sprout.items.keys.IronKey;
-import com.github.dachhack.sprout.items.keys.Key;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfRemoveCurse;
-import com.github.dachhack.sprout.items.wands.Wand;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.KindOfWeapon;
+import com.github.mdsimmo.sprout.items.KindofMisc;
+import com.github.mdsimmo.sprout.items.armor.Armor;
+import com.github.mdsimmo.sprout.items.bags.Bag;
+import com.github.mdsimmo.sprout.items.keys.IronKey;
+import com.github.mdsimmo.sprout.items.keys.Key;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfRemoveCurse;
+import com.github.mdsimmo.sprout.items.wands.Wand;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
 

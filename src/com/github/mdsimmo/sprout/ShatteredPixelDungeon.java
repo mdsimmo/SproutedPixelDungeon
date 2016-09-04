@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
 import javax.microedition.khronos.opengles.GL10;
 
@@ -26,9 +26,9 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.View;
 
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.scenes.PixelScene;
-import com.github.dachhack.sprout.scenes.TitleScene;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.scenes.PixelScene;
+import com.github.mdsimmo.sprout.scenes.TitleScene;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.audio.Music;
 import com.watabou.noosa.audio.Sample;
@@ -41,17 +41,17 @@ public class ShatteredPixelDungeon extends Game {
 		// 0.2.4
 		com.watabou.utils.Bundle
 				.addAlias(
-						com.github.dachhack.sprout.items.weapon.enchantments.Shock.class,
-						"com.github.dachhack.sprout.items.weapon.enchantments.Piercing");
+						com.github.mdsimmo.sprout.items.weapon.enchantments.Shock.class,
+						"com.github.mdsimmo.sprout.items.weapon.enchantments.Piercing");
 		com.watabou.utils.Bundle
 				.addAlias(
-						com.github.dachhack.sprout.items.weapon.enchantments.Shock.class,
-						"com.github.dachhack.sprout.items.weapon.enchantments.Swing");
+						com.github.mdsimmo.sprout.items.weapon.enchantments.Shock.class,
+						"com.github.mdsimmo.sprout.items.weapon.enchantments.Swing");
 
 		com.watabou.utils.Bundle
 				.addAlias(
-						com.github.dachhack.sprout.items.scrolls.ScrollOfMagicalInfusion.class,
-						"com.github.dachhack.sprout.items.scrolls.ScrollOfWeaponUpgrade");
+						com.github.mdsimmo.sprout.items.scrolls.ScrollOfMagicalInfusion.class,
+						"com.github.mdsimmo.sprout.items.scrolls.ScrollOfWeaponUpgrade");
 
 	}
 

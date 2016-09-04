@@ -15,46 +15,28 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.npcs;
+package com.github.mdsimmo.sprout.actors.mobs.npcs;
 
-import java.util.Collection;
-
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Journal;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.items.AdamantArmor;
-import com.github.dachhack.sprout.items.AdamantRing;
-import com.github.dachhack.sprout.items.AdamantWand;
-import com.github.dachhack.sprout.items.AdamantWeapon;
-import com.github.dachhack.sprout.items.EquipableItem;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.SanChikarah;
-import com.github.dachhack.sprout.items.SanChikarahDeath;
-import com.github.dachhack.sprout.items.SanChikarahLife;
-import com.github.dachhack.sprout.items.SanChikarahTranscend;
-import com.github.dachhack.sprout.items.armor.Armor;
-import com.github.dachhack.sprout.items.quest.DarkGold;
-import com.github.dachhack.sprout.items.quest.Pickaxe;
-import com.github.dachhack.sprout.items.rings.Ring;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfUpgrade;
-import com.github.dachhack.sprout.items.wands.Wand;
-import com.github.dachhack.sprout.items.weapon.melee.MeleeWeapon;
-import com.github.dachhack.sprout.items.weapon.missiles.Boomerang;
-import com.github.dachhack.sprout.levels.Room;
-import com.github.dachhack.sprout.levels.Room.Type;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.BlacksmithSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.windows.WndBlacksmith;
-import com.github.dachhack.sprout.windows.WndBlacksmith2;
-import com.github.dachhack.sprout.windows.WndQuest;
-import com.watabou.noosa.audio.Sample;
-import com.watabou.utils.Bundle;
-import com.watabou.utils.Random;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.items.AdamantArmor;
+import com.github.mdsimmo.sprout.items.AdamantRing;
+import com.github.mdsimmo.sprout.items.AdamantWand;
+import com.github.mdsimmo.sprout.items.AdamantWeapon;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.armor.Armor;
+import com.github.mdsimmo.sprout.items.quest.DarkGold;
+import com.github.mdsimmo.sprout.items.rings.Ring;
+import com.github.mdsimmo.sprout.items.wands.Wand;
+import com.github.mdsimmo.sprout.items.weapon.melee.MeleeWeapon;
+import com.github.mdsimmo.sprout.items.weapon.missiles.Boomerang;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.BlacksmithSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.windows.WndBlacksmith2;
+import com.github.mdsimmo.sprout.windows.WndQuest;
 
 public class Blacksmith2 extends NPC {
 

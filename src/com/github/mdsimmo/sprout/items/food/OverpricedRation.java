@@ -15,10 +15,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.food;
+package com.github.mdsimmo.sprout.items.food;
 
-import com.github.dachhack.sprout.actors.buffs.Hunger;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.actors.buffs.Hunger;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 public class OverpricedRation extends Food {
 

@@ -15,35 +15,26 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.hero.HeroClass;
-import com.github.dachhack.sprout.actors.mobs.Sentinel;
-import com.github.dachhack.sprout.actors.mobs.npcs.Ghost;
-import com.github.dachhack.sprout.actors.mobs.npcs.Imp;
-import com.github.dachhack.sprout.actors.mobs.npcs.SheepSokoban;
-import com.github.dachhack.sprout.actors.mobs.npcs.SheepSokobanCorner;
-import com.github.dachhack.sprout.actors.mobs.npcs.SheepSokobanSwitch;
-import com.github.dachhack.sprout.actors.mobs.npcs.Tinkerer1;
-import com.github.dachhack.sprout.actors.mobs.npcs.Tinkerer2;
-import com.github.dachhack.sprout.actors.mobs.npcs.Ghost.GnollArcher;
-import com.github.dachhack.sprout.actors.mobs.npcs.Tinkerer3;
-import com.github.dachhack.sprout.items.Bomb;
-import com.github.dachhack.sprout.items.DewVial;
-import com.github.dachhack.sprout.items.Egg;
-import com.github.dachhack.sprout.items.Mushroom;
-import com.github.dachhack.sprout.items.bags.SeedPouch;
-import com.github.dachhack.sprout.items.food.Blackberry;
-import com.github.dachhack.sprout.items.food.Blueberry;
-import com.github.dachhack.sprout.items.food.Cloudberry;
-import com.github.dachhack.sprout.items.food.Moonberry;
-import com.github.dachhack.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.hero.HeroClass;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Ghost;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Tinkerer1;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Ghost.GnollArcher;
+import com.github.mdsimmo.sprout.items.Bomb;
+import com.github.mdsimmo.sprout.items.DewVial;
+import com.github.mdsimmo.sprout.items.Egg;
+import com.github.mdsimmo.sprout.items.Mushroom;
+import com.github.mdsimmo.sprout.items.bags.SeedPouch;
+import com.github.mdsimmo.sprout.items.food.Blackberry;
+import com.github.mdsimmo.sprout.items.food.Blueberry;
+import com.github.mdsimmo.sprout.items.food.Cloudberry;
+import com.github.mdsimmo.sprout.items.food.Moonberry;
+import com.github.mdsimmo.sprout.scenes.GameScene;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Scene;
 import com.watabou.noosa.particles.Emitter;

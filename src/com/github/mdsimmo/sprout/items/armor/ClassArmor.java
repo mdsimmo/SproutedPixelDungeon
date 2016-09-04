@@ -15,13 +15,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.armor;
+package com.github.mdsimmo.sprout.items.armor;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.actors.buffs.Invisibility;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.actors.buffs.Invisibility;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Bundle;
 
 abstract public class ClassArmor extends Armor {

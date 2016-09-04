@@ -15,19 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.armor.glyphs;
+package com.github.mdsimmo.sprout.items.armor.glyphs;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.GasesImmunity;
-import com.github.dachhack.sprout.items.armor.Armor;
-import com.github.dachhack.sprout.items.armor.Armor.Glyph;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.sprites.ItemSprite.Glowing;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.GasesImmunity;
+import com.github.mdsimmo.sprout.items.armor.Armor;
+import com.github.mdsimmo.sprout.items.armor.Armor.Glyph;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSprite.Glowing;
 import com.watabou.utils.Random;
 
 public class Stench extends Glyph {

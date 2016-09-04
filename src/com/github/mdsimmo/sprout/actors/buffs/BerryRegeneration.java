@@ -15,9 +15,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.buffs;
+package com.github.mdsimmo.sprout.actors.buffs;
 
-import com.github.dachhack.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
 import com.watabou.utils.Bundle;
 
 public class BerryRegeneration extends Buff {

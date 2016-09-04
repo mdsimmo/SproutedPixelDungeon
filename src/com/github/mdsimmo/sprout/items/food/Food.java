@@ -15,21 +15,21 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.food;
+package com.github.mdsimmo.sprout.items.food;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.actors.buffs.Hunger;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.Speck;
-import com.github.dachhack.sprout.effects.SpellSprite;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.scrolls.ScrollOfRecharging;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Statistics;
+import com.github.mdsimmo.sprout.actors.buffs.Hunger;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.effects.SpellSprite;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.scrolls.ScrollOfRecharging;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Random;
 

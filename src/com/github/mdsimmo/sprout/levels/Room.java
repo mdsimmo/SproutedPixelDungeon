@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;
@@ -24,32 +24,32 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.levels.painters.ArmoryPainter;
-import com.github.dachhack.sprout.levels.painters.BlacksmithPainter;
-import com.github.dachhack.sprout.levels.painters.BossExitPainter;
-import com.github.dachhack.sprout.levels.painters.CryptPainter;
-import com.github.dachhack.sprout.levels.painters.EntrancePainter;
-import com.github.dachhack.sprout.levels.painters.ExitPainter;
-import com.github.dachhack.sprout.levels.painters.GardenPainter;
-import com.github.dachhack.sprout.levels.painters.LaboratoryPainter;
-import com.github.dachhack.sprout.levels.painters.LibraryPainter;
-import com.github.dachhack.sprout.levels.painters.MagicWellPainter;
-import com.github.dachhack.sprout.levels.painters.Painter;
-import com.github.dachhack.sprout.levels.painters.PassagePainter;
-import com.github.dachhack.sprout.levels.painters.PitPainter;
-import com.github.dachhack.sprout.levels.painters.PoolPainter;
-import com.github.dachhack.sprout.levels.painters.RatKingPainter;
-import com.github.dachhack.sprout.levels.painters.RatKingPainter2;
-import com.github.dachhack.sprout.levels.painters.ShopPainter;
-import com.github.dachhack.sprout.levels.painters.StandardPainter;
-import com.github.dachhack.sprout.levels.painters.StatuePainter;
-import com.github.dachhack.sprout.levels.painters.StoragePainter;
-import com.github.dachhack.sprout.levels.painters.TrapsPainter;
-import com.github.dachhack.sprout.levels.painters.TreasuryPainter;
-import com.github.dachhack.sprout.levels.painters.TunnelPainter;
-import com.github.dachhack.sprout.levels.painters.VaultPainter;
-import com.github.dachhack.sprout.levels.painters.WeakFloorPainter;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.levels.painters.ArmoryPainter;
+import com.github.mdsimmo.sprout.levels.painters.BlacksmithPainter;
+import com.github.mdsimmo.sprout.levels.painters.BossExitPainter;
+import com.github.mdsimmo.sprout.levels.painters.CryptPainter;
+import com.github.mdsimmo.sprout.levels.painters.EntrancePainter;
+import com.github.mdsimmo.sprout.levels.painters.ExitPainter;
+import com.github.mdsimmo.sprout.levels.painters.GardenPainter;
+import com.github.mdsimmo.sprout.levels.painters.LaboratoryPainter;
+import com.github.mdsimmo.sprout.levels.painters.LibraryPainter;
+import com.github.mdsimmo.sprout.levels.painters.MagicWellPainter;
+import com.github.mdsimmo.sprout.levels.painters.Painter;
+import com.github.mdsimmo.sprout.levels.painters.PassagePainter;
+import com.github.mdsimmo.sprout.levels.painters.PitPainter;
+import com.github.mdsimmo.sprout.levels.painters.PoolPainter;
+import com.github.mdsimmo.sprout.levels.painters.RatKingPainter;
+import com.github.mdsimmo.sprout.levels.painters.RatKingPainter2;
+import com.github.mdsimmo.sprout.levels.painters.ShopPainter;
+import com.github.mdsimmo.sprout.levels.painters.StandardPainter;
+import com.github.mdsimmo.sprout.levels.painters.StatuePainter;
+import com.github.mdsimmo.sprout.levels.painters.StoragePainter;
+import com.github.mdsimmo.sprout.levels.painters.TrapsPainter;
+import com.github.mdsimmo.sprout.levels.painters.TreasuryPainter;
+import com.github.mdsimmo.sprout.levels.painters.TunnelPainter;
+import com.github.mdsimmo.sprout.levels.painters.VaultPainter;
+import com.github.mdsimmo.sprout.levels.painters.WeakFloorPainter;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Graph;

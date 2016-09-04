@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.blobs;
+package com.github.mdsimmo.sprout.actors.blobs;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.effects.BlobEmitter;
-import com.github.dachhack.sprout.effects.particles.WebParticle;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.effects.BlobEmitter;
+import com.github.mdsimmo.sprout.effects.particles.WebParticle;
 
 public class Web extends Blob {
 

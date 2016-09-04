@@ -15,14 +15,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.scrolls;
+package com.github.mdsimmo.sprout.items.scrolls;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.actors.buffs.Invisibility;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.windows.WndBag;
-import com.github.dachhack.sprout.windows.WndOptions;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.actors.buffs.Invisibility;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.windows.WndBag;
+import com.github.mdsimmo.sprout.windows.WndOptions;
 import com.watabou.noosa.audio.Sample;
 
 public abstract class InventoryScroll extends Scroll {

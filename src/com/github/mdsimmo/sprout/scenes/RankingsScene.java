@@ -15,20 +15,20 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Rankings;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.effects.Flare;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.ExitButton;
-import com.github.dachhack.sprout.ui.Icons;
-import com.github.dachhack.sprout.ui.Window;
-import com.github.dachhack.sprout.windows.WndError;
-import com.github.dachhack.sprout.windows.WndRanking;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Rankings;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.effects.Flare;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.ExitButton;
+import com.github.mdsimmo.sprout.ui.Icons;
+import com.github.mdsimmo.sprout.ui.Window;
+import com.github.mdsimmo.sprout.windows.WndError;
+import com.github.mdsimmo.sprout.windows.WndRanking;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.Camera;

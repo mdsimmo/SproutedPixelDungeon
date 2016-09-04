@@ -1,14 +1,14 @@
-package com.github.dachhack.sprout.items.bags;
+package com.github.mdsimmo.sprout.items.bags;
 
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.items.food.BlueMilk;
-import com.github.dachhack.sprout.items.food.DeathCap;
-import com.github.dachhack.sprout.items.food.Earthstar;
-import com.github.dachhack.sprout.items.food.GoldenJelly;
-import com.github.dachhack.sprout.items.food.JackOLantern;
-import com.github.dachhack.sprout.items.food.PixieParasol;
-import com.github.dachhack.sprout.items.potions.Potion;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.food.BlueMilk;
+import com.github.mdsimmo.sprout.items.food.DeathCap;
+import com.github.mdsimmo.sprout.items.food.Earthstar;
+import com.github.mdsimmo.sprout.items.food.GoldenJelly;
+import com.github.mdsimmo.sprout.items.food.JackOLantern;
+import com.github.mdsimmo.sprout.items.food.PixieParasol;
+import com.github.mdsimmo.sprout.items.potions.Potion;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
 
 /**
  * Created by debenhame on 05/02/2015.

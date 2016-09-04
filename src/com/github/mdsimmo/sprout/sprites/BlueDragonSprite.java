@@ -15,16 +15,11 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.actors.mobs.FlyingProtector;
-import com.github.dachhack.sprout.actors.mobs.Warlock;
-import com.github.dachhack.sprout.actors.mobs.pets.BlueDragon;
-import com.github.dachhack.sprout.actors.mobs.pets.RedDragon;
-import com.github.dachhack.sprout.effects.Fireball;
-import com.github.dachhack.sprout.effects.Lightning;
-import com.github.dachhack.sprout.effects.MagicMissile;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.actors.mobs.pets.BlueDragon;
+import com.github.mdsimmo.sprout.effects.MagicMissile;
 import com.watabou.noosa.TextureFilm;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Callback;

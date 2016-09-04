@@ -15,23 +15,23 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.Statistics;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.ToxicGas;
-import com.github.dachhack.sprout.actors.buffs.Burning;
-import com.github.dachhack.sprout.actors.buffs.Frost;
-import com.github.dachhack.sprout.actors.buffs.Paralysis;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.items.CavesKey;
-import com.github.dachhack.sprout.items.food.Meat;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.sprites.PiranhaSprite;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Statistics;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.ToxicGas;
+import com.github.mdsimmo.sprout.actors.buffs.Burning;
+import com.github.mdsimmo.sprout.actors.buffs.Frost;
+import com.github.mdsimmo.sprout.actors.buffs.Paralysis;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.items.CavesKey;
+import com.github.mdsimmo.sprout.items.food.Meat;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.sprites.PiranhaSprite;
 import com.watabou.utils.Random;
 
 public class Piranha extends Mob {

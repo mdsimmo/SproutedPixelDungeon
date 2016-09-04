@@ -1,6 +1,6 @@
-package com.github.dachhack.sprout.items.rings;
+package com.github.mdsimmo.sprout.items.rings;
 
-import com.github.dachhack.sprout.Dungeon;
+import com.github.mdsimmo.sprout.Dungeon;
 
 /**
  * Created by debenhame on 10/09/2014.

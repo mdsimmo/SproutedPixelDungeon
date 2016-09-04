@@ -1,13 +1,13 @@
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Chrome;
-import com.github.dachhack.sprout.Rankings;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.RedButton;
-import com.github.dachhack.sprout.ui.ScrollPane;
-import com.github.dachhack.sprout.ui.Window;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Chrome;
+import com.github.mdsimmo.sprout.Rankings;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.RedButton;
+import com.github.mdsimmo.sprout.ui.ScrollPane;
+import com.github.mdsimmo.sprout.ui.Window;
 import com.watabou.noosa.BitmapTextMultiline;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.Game;
@@ -210,7 +210,7 @@ public class WelcomeScene extends PixelScene {
 			+ "Regardless, tread with caution! Your saves may contain things which don't exist in this version, "
 			+ "this could cause some very weird errors to occur.";
 
-	private static final String LNK = "https://play.google.com/store/apps/details?id=com.github.dachhack.sprout";
+	private static final String LNK = "https://play.google.com/store/apps/details?id=com.github.mdsimmo.sprout";
 
 	@Override
 	public void create() {

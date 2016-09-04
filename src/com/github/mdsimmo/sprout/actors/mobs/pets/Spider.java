@@ -15,40 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs.pets;
+package com.github.mdsimmo.sprout.actors.mobs.pets;
 
-import java.util.HashSet;
-
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.blobs.Blob;
-import com.github.dachhack.sprout.actors.blobs.Fire;
-import com.github.dachhack.sprout.actors.blobs.Web;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Frost;
-import com.github.dachhack.sprout.actors.buffs.Poison;
-import com.github.dachhack.sprout.actors.buffs.Weakness;
-import com.github.dachhack.sprout.actors.mobs.Bee;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.SnowParticle;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.mechanics.Ballistica;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.BlueDragonSprite;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.sprites.MirrorSprite;
-import com.github.dachhack.sprout.sprites.RedDragonSprite;
-import com.github.dachhack.sprout.sprites.SpiderSprite;
-import com.github.dachhack.sprout.sprites.SteelBeeSprite;
-import com.github.dachhack.sprout.sprites.VelociroosterSprite;
-import com.github.dachhack.sprout.sprites.WarlockSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
-import com.watabou.utils.Bundle;
-import com.watabou.utils.Callback;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.blobs.Blob;
+import com.github.mdsimmo.sprout.actors.blobs.Web;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Poison;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.SpiderSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Random;
 
 public class Spider extends PET {

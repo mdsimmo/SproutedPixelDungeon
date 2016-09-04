@@ -15,12 +15,12 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.potions;
+package com.github.mdsimmo.sprout.items.potions;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
 
 public class PotionOfMight extends Potion {
 

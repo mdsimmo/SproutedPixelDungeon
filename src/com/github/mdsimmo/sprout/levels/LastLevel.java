@@ -15,13 +15,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
 import java.util.Arrays;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.items.Amulet;
-import com.github.dachhack.sprout.levels.painters.Painter;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.items.Amulet;
+import com.github.mdsimmo.sprout.levels.painters.Painter;
 import com.watabou.noosa.Scene;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;

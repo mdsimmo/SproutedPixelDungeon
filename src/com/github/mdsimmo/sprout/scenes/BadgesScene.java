@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.scenes;
+package com.github.mdsimmo.sprout.scenes;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.Chrome;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.ui.Archs;
-import com.github.dachhack.sprout.ui.BadgesList;
-import com.github.dachhack.sprout.ui.ExitButton;
-import com.github.dachhack.sprout.ui.ScrollPane;
-import com.github.dachhack.sprout.ui.Window;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.Chrome;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.ui.Archs;
+import com.github.mdsimmo.sprout.ui.BadgesList;
+import com.github.mdsimmo.sprout.ui.ExitButton;
+import com.github.mdsimmo.sprout.ui.ScrollPane;
+import com.github.mdsimmo.sprout.ui.Window;
 import com.watabou.noosa.BitmapText;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.Game;

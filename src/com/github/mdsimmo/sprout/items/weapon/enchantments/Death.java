@@ -15,15 +15,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.weapon.enchantments;
+package com.github.mdsimmo.sprout.items.weapon.enchantments;
 
-import com.github.dachhack.sprout.Badges;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.particles.ShadowParticle;
-import com.github.dachhack.sprout.items.weapon.Weapon;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.sprites.ItemSprite.Glowing;
+import com.github.mdsimmo.sprout.Badges;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.particles.ShadowParticle;
+import com.github.mdsimmo.sprout.items.weapon.Weapon;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSprite.Glowing;
 import com.watabou.utils.Random;
 
 public class Death extends Weapon.Enchantment {

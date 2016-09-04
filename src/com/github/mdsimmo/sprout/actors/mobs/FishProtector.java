@@ -15,26 +15,23 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.mobs;
+package com.github.mdsimmo.sprout.actors.mobs;
 
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.ResultDescriptions;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.buffs.Invisibility;
-import com.github.dachhack.sprout.effects.particles.SparkParticle;
-import com.github.dachhack.sprout.items.ActiveMrDestructo;
-import com.github.dachhack.sprout.items.VioletDewdrop;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.traps.LightningTrap;
-import com.github.dachhack.sprout.mechanics.Ballistica;
-import com.github.dachhack.sprout.sprites.CharSprite;
-import com.github.dachhack.sprout.sprites.DewProtectorSprite;
-import com.github.dachhack.sprout.sprites.FishProtectorSprite;
-import com.github.dachhack.sprout.sprites.FlyingProtectorSprite;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.ResultDescriptions;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.buffs.Invisibility;
+import com.github.mdsimmo.sprout.effects.particles.SparkParticle;
+import com.github.mdsimmo.sprout.items.VioletDewdrop;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.traps.LightningTrap;
+import com.github.mdsimmo.sprout.mechanics.Ballistica;
+import com.github.mdsimmo.sprout.sprites.CharSprite;
+import com.github.mdsimmo.sprout.sprites.FishProtectorSprite;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.utils.Utils;
 import com.watabou.noosa.Camera;
 import com.watabou.utils.Callback;
 import com.watabou.utils.Random;

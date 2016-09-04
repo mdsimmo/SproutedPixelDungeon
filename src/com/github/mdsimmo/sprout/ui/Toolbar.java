@@ -15,30 +15,30 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.ui;
+package com.github.mdsimmo.sprout.ui;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.DungeonTilemap;
-import com.github.dachhack.sprout.ShatteredPixelDungeon;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.mobs.Mob;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.plants.Plant;
-import com.github.dachhack.sprout.scenes.CellSelector;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.windows.WndBag;
-import com.github.dachhack.sprout.windows.WndCatalogus;
-import com.github.dachhack.sprout.windows.WndHero;
-import com.github.dachhack.sprout.windows.WndInfoCell;
-import com.github.dachhack.sprout.windows.WndInfoItem;
-import com.github.dachhack.sprout.windows.WndInfoMob;
-import com.github.dachhack.sprout.windows.WndInfoPlant;
-import com.github.dachhack.sprout.windows.WndMessage;
-import com.github.dachhack.sprout.windows.WndTradeItem;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.DungeonTilemap;
+import com.github.mdsimmo.sprout.ShatteredPixelDungeon;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.mobs.Mob;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.plants.Plant;
+import com.github.mdsimmo.sprout.scenes.CellSelector;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.windows.WndBag;
+import com.github.mdsimmo.sprout.windows.WndCatalogus;
+import com.github.mdsimmo.sprout.windows.WndHero;
+import com.github.mdsimmo.sprout.windows.WndInfoCell;
+import com.github.mdsimmo.sprout.windows.WndInfoItem;
+import com.github.mdsimmo.sprout.windows.WndInfoMob;
+import com.github.mdsimmo.sprout.windows.WndInfoPlant;
+import com.github.mdsimmo.sprout.windows.WndMessage;
+import com.github.mdsimmo.sprout.windows.WndTradeItem;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Gizmo;
 import com.watabou.noosa.Image;

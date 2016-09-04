@@ -1,22 +1,22 @@
-package com.github.dachhack.sprout.items.artifacts;
+package com.github.mdsimmo.sprout.items.artifacts;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Roots;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.effects.CellEmitter;
-import com.github.dachhack.sprout.effects.particles.EarthParticle;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.plants.Earthroot;
-import com.github.dachhack.sprout.plants.Plant;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.utils.GLog;
-import com.github.dachhack.sprout.windows.WndBag;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.buffs.Buff;
+import com.github.mdsimmo.sprout.actors.buffs.Roots;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.effects.CellEmitter;
+import com.github.mdsimmo.sprout.effects.particles.EarthParticle;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.plants.Earthroot;
+import com.github.mdsimmo.sprout.plants.Plant;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.windows.WndBag;
 import com.watabou.noosa.Camera;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Bundle;

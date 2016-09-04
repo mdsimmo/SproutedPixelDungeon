@@ -1,10 +1,10 @@
-package com.github.dachhack.sprout.items.artifacts;
+package com.github.mdsimmo.sprout.items.artifacts;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.ui.BuffIndicator;
-import com.github.dachhack.sprout.utils.GLog;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.ui.BuffIndicator;
+import com.github.mdsimmo.sprout.utils.GLog;
 import com.watabou.utils.Random;
 
 /**

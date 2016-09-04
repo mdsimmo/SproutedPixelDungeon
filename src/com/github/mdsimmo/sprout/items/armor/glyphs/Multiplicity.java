@@ -15,21 +15,21 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.armor.glyphs;
+package com.github.mdsimmo.sprout.items.armor.glyphs;
 
 import java.util.ArrayList;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.hero.Hero;
-import com.github.dachhack.sprout.actors.mobs.npcs.MirrorImage;
-import com.github.dachhack.sprout.items.armor.Armor;
-import com.github.dachhack.sprout.items.armor.Armor.Glyph;
-import com.github.dachhack.sprout.items.wands.WandOfBlink;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.scenes.GameScene;
-import com.github.dachhack.sprout.sprites.ItemSprite;
-import com.github.dachhack.sprout.sprites.ItemSprite.Glowing;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.hero.Hero;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.MirrorImage;
+import com.github.mdsimmo.sprout.items.armor.Armor;
+import com.github.mdsimmo.sprout.items.armor.Armor.Glyph;
+import com.github.mdsimmo.sprout.items.wands.WandOfBlink;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.scenes.GameScene;
+import com.github.mdsimmo.sprout.sprites.ItemSprite;
+import com.github.mdsimmo.sprout.sprites.ItemSprite.Glowing;
 import com.watabou.utils.Random;
 
 public class Multiplicity extends Glyph {

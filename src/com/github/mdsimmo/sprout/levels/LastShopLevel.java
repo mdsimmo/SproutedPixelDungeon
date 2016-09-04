@@ -15,17 +15,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.levels;
+package com.github.mdsimmo.sprout.levels;
 
 import java.util.List;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Bones;
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.mobs.npcs.Imp;
-import com.github.dachhack.sprout.items.Heap;
-import com.github.dachhack.sprout.items.Item;
-import com.github.dachhack.sprout.levels.Room.Type;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.Bones;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.Imp;
+import com.github.mdsimmo.sprout.items.Heap;
+import com.github.mdsimmo.sprout.items.Item;
+import com.github.mdsimmo.sprout.levels.Room.Type;
 import com.watabou.noosa.Scene;
 import com.watabou.utils.Graph;
 import com.watabou.utils.Random;

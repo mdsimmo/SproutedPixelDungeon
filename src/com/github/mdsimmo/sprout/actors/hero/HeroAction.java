@@ -15,11 +15,11 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.actors.hero;
+package com.github.mdsimmo.sprout.actors.hero;
 
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.actors.mobs.npcs.NPC;
-import com.github.dachhack.sprout.actors.mobs.pets.PET;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.actors.mobs.npcs.NPC;
+import com.github.mdsimmo.sprout.actors.mobs.pets.PET;
 
 public class HeroAction {
 

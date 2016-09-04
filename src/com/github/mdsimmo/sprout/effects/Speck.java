@@ -15,13 +15,12 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.effects;
+package com.github.mdsimmo.sprout.effects;
 
 import android.annotation.SuppressLint;
-import android.util.FloatMath;
 import android.util.SparseArray;
 
-import com.github.dachhack.sprout.Assets;
+import com.github.mdsimmo.sprout.Assets;
 import com.watabou.noosa.Game;
 import com.watabou.noosa.Image;
 import com.watabou.noosa.TextureFilm;

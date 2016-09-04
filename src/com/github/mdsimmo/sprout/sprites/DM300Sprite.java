@@ -15,12 +15,12 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.sprites;
+package com.github.mdsimmo.sprout.sprites;
 
-import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.actors.mobs.DM300;
-import com.github.dachhack.sprout.effects.Lightning;
-import com.github.dachhack.sprout.effects.Speck;
+import com.github.mdsimmo.sprout.Assets;
+import com.github.mdsimmo.sprout.actors.mobs.DM300;
+import com.github.mdsimmo.sprout.effects.Lightning;
+import com.github.mdsimmo.sprout.effects.Speck;
 import com.watabou.noosa.TextureFilm;
 
 public class DM300Sprite extends MobSprite {

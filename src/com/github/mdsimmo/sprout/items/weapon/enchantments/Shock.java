@@ -15,18 +15,18 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.weapon.enchantments;
+package com.github.mdsimmo.sprout.items.weapon.enchantments;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import com.github.dachhack.sprout.actors.Actor;
-import com.github.dachhack.sprout.actors.Char;
-import com.github.dachhack.sprout.effects.Lightning;
-import com.github.dachhack.sprout.effects.particles.SparkParticle;
-import com.github.dachhack.sprout.items.weapon.Weapon;
-import com.github.dachhack.sprout.levels.Level;
-import com.github.dachhack.sprout.levels.traps.LightningTrap;
+import com.github.mdsimmo.sprout.actors.Actor;
+import com.github.mdsimmo.sprout.actors.Char;
+import com.github.mdsimmo.sprout.effects.Lightning;
+import com.github.mdsimmo.sprout.effects.particles.SparkParticle;
+import com.github.mdsimmo.sprout.items.weapon.Weapon;
+import com.github.mdsimmo.sprout.levels.Level;
+import com.github.mdsimmo.sprout.levels.traps.LightningTrap;
 import com.watabou.utils.Random;
 
 public class Shock extends Weapon.Enchantment {

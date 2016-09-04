@@ -15,12 +15,12 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
-package com.github.dachhack.sprout.items.keys;
+package com.github.mdsimmo.sprout.items.keys;
 
-import com.github.dachhack.sprout.Dungeon;
-import com.github.dachhack.sprout.items.bags.Bag;
-import com.github.dachhack.sprout.sprites.ItemSpriteSheet;
-import com.github.dachhack.sprout.utils.Utils;
+import com.github.mdsimmo.sprout.Dungeon;
+import com.github.mdsimmo.sprout.items.bags.Bag;
+import com.github.mdsimmo.sprout.sprites.ItemSpriteSheet;
+import com.github.mdsimmo.sprout.utils.Utils;
 
 public class IronKey extends Key {
 

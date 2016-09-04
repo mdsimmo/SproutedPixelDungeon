@@ -1,9 +1,9 @@
-package com.github.dachhack.sprout;
+package com.github.mdsimmo.sprout;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import com.github.dachhack.sprout.items.Item;
+import com.github.mdsimmo.sprout.items.Item;
 import com.watabou.utils.Bundlable;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.Random;
