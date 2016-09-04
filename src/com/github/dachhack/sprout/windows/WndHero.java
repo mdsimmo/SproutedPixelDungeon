@@ -17,16 +17,13 @@
  */
 package com.github.dachhack.sprout.windows;
 
-import java.util.HashSet;
 import java.util.Locale;
 
 import com.github.dachhack.sprout.Assets;
-import com.github.dachhack.sprout.Badges;
 import com.github.dachhack.sprout.Dungeon;
 import com.github.dachhack.sprout.Statistics;
 import com.github.dachhack.sprout.actors.Actor;
 import com.github.dachhack.sprout.actors.buffs.Buff;
-import com.github.dachhack.sprout.actors.buffs.Dewcharge;
 import com.github.dachhack.sprout.actors.buffs.Hunger;
 import com.github.dachhack.sprout.actors.hero.Hero;
 import com.github.dachhack.sprout.actors.mobs.Mob;
